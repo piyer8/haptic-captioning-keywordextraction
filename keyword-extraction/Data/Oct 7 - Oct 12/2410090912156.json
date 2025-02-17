@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a low amplitude loop that repeats for short duration."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel good or familiar.\t"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of in video game tutorial when the controller is trying to correct my action."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is blast of two waves split by very short duration that repeat for a short duration."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels like warning or a feeling that dissaudes me with some urgency.\t"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of failure in quick time events in games."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "The sensaion is a fast paced repeating loop of short lasting waves."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels  comforting and calming."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the feeling of getting ready for some task."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is rising wave of rising series of waves repeating in short intervals."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels exciting or thrilling"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when I just finished some thrilling activity "
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a quick repeating loop with high amplitude waves."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels alarming"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of warning or trigger given in video game tutorials"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The  sensation is very quick repeating waves of low intensity forming a pattern that ends in a high wave."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels pleasant, active and enjoyable."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of firing guns in video games."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a quick repeating pattern of low intensity waves"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels soothing or relaxing"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of massage machines that target a specific area"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a loop of high intensity waves that linger for a short duration and repeat"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "The sensations feels like a natural active buzz"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "The sensations reminds me of being in quick time events in video games and getting them right"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is burst of high amplitude waves repeating in quick succession"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels aggresive or unpleasant"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of warning with great urgency "
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a repeating burst of waves that rise in intensity "
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels steady desirable and comforting"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of charging before your final move in video games"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is repeating pattern of low intensity low amplitude waves"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels calm and quiet"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of holding a pipe which has high intensity fluid flowing through it"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a pattern of waves repeating with equal time disperation with medium amplitude"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels steady "
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of waves hitting body "
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is pattern of lastting waves with high intensity that repeat with very high frequency"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels bad or aggresive"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of being in high tide pool where waves crash into your body"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a repeating pattern of quick evenly spaced waves ending in high intensity wave"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels urgent"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of correcting flow of resistance in video games "
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a repeating pattern of high intensity short duration wave followed by long duration high intensity wave"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels intense and urgent"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when your alarm rings"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a repeating loop of waves with no lows that end with high intensity"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels energetic exciting "
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of electronic music"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/9\/2024 9:12:46 AM"
+	}
+}

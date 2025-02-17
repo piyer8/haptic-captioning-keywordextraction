@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is rhythmic. A small beat followed by a longer one."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel intrigued and curious."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the sound vibrations felt in a movie theatre."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is erratic. I could not identify a rhythm or a pattern."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel confused."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of uneven vibrations of motorcycle accelerator in heavy traffic."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "This is an extremely low sensation vibration. Hard to identiify a pattern.\n\t\t"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "The sensation does not particularly evoke any emotions."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "No this does not remind me of anything."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "this is a a strong and fast sensation with a continuous rhythm"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel excited"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "this sensations reminds me of marching bands and the vibrations one usually feels within their chest while being in their vicinity"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has a very energetic rhythm"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is enjoyable"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a club and its dance floor vibrations."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "this is a calming sensation with a fading rhythm"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "it makes me feel relaxed and calm"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "it reminds me of sound vibrations during my yoga class"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like it it replicating a song"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel energetic"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of vbrations felt while playing mario cart"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "this sensation has a moderately fast fading beat "
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel panicky"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of vibrations felt while watching thriller movies on my phone or ipad"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "this sensation has 3 distinct vibrations in a continuous rhythm"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel excited and energetic"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of machine vibrations in a carving shop"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels irregular"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This sensation seems familar"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the moving liquid in my blender while I am making milkshakes"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has short and face vibrations"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation does not particularly evoke any emotion"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a printer "
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has a longer beat followed by a pause"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel comforted"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of a washing machine cycle "
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "this sensation has 2 fast paced continuous beats"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel nervous"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the human pulse"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is of very less intensity with short continuous beats"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel neutral"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "it reminds me of filling a water bottle when it has almost reached its brim"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is very discontinous and erratic"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel uncomfortable as if something is not going right"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "This reminds me of gastric movements felt in the abdomen during indigestion"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "This is a sensation with short energetic continuous beats"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel steady"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "Yes it reminds me of pulling a string chopper for cutting vegetables"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/18\/2024 5:06:30 PM"
+	}
+}

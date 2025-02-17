@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation I felt was like a ticking pattern  and there was a gap between 2 ticking. Also,  you should try to sense the sensation as much carefully."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "I felt this sensation to be neutral."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "Yes, this sensation was somewhat similar to heartbeats."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like a ticking pattern mixed with some kind of grainy vibration."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "N.A\t"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "I would describe it as the combination of grainy plus firctional sense."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "the sensation was somewhat frictional."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a pattern with low vibration initially and the vibration gradually increases."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "i used to use electric heating vibrator for period cramps, this sensation remind me to that sense."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "It was a steady vibration."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "I found this sensation to be energetic."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "The sensation was like of a vibration\/sense after hitting a bell."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a quick and continuous vibration."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "I felt it to be annoying and panicking. It feels like someone is constantly urging us to do something."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "It was low and continuous sensation which needs to be sensed carefully."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "The sensation was somewhat soothing."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "Sensation was somewhat like I feel in a running train."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "It's a pattern of vibration where it vibrates on high level and gradually decreases "
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "The sensation is similar to what I feel when pulling and releasing a spring."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "It's fast and continuous vibration"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like I am running out of time."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is a grainy vibration of 3 beats. "
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel to dance."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "I have felt this kind of senstion in party clubs and DJs."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "it's a pattern where it feels like a very low vibration initially (almost like no sensation), you needs to be very attentive and gradually the sensation increases "
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "it feels like a constant ticking pattern where every tick having a gap of milliseconds."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "This also feels like a I a running out of time."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "It's a completeand grainy vibration with a slight gap in between."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "I have felt this kind of sensation my phone alarm rings."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "it's a vibration of mixed pitch levels."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "This sensation also make me feel to do some dance moves."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "It feels like a vibration in musical songs."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "it's a pattern of 3 tyes of vibration where the first vibration stays for long, second vibration stays less than the first and raually decreases at lst i.e. at 3rd vibration."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like dissatisfied."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "N.A\t"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "It's like a grainy and frictional sensation\t"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "it feels like the same sensation that I feel when rubbing 2 things to each other."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/10\/2024 1:26:46 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is like a buzz notification inn your mobile which lasts for 1-2 seconds."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me alert or gets my attention instantly."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a mobile notification vibration or an alert"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is like a fast wave which lasts for 3-4 seconds "
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me happy or ennjoyable"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a wave travelling fast"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like a motor sound of a rice mill\t"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me warm and comforted\t"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of motor of a mill factory"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is like starts on high frequency and it gradually decreases while it stops"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "this sensation make me fells like vibrating\t"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "This reminds me of motor or a battery which is about to die or in the last stage of its capacity"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like someone is poiking you with a finger "
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me irritated\t"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of sharp object "
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "this senstaion is very calm, slow and almost feels nothing has happened"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel warm\t"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of cycle wheel while going on a road"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is like a small wheel is rotating with a high speed\t\t"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel rough\t"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of something even and flat"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is more like start and stop of rotating wheel with less frequency\t"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me fell iritating as it is not so smooth\t"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds of a bus horn"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like a machine or an engine which starts slow and picks up speed and eventually ends on low\t"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like frictional\t"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a running grinder "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like long lastiing vibratin which is for about 5-6 seocnds\t "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel bumpy at times"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a motor which is in damaged state"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like a small fan rotating\tfor 2-3 seconds"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel passive\t"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a working small fan"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like low vibration or almost nothing has happened type"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel buzzing\t"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds of a mobile buzz placed on a table which is next to your bed "
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a sudden jerk which fades off eventually\t"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel irritated\t"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of electric static "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like a start stop vibration whch doesn't bother you much\t"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like smoothing\t"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds of a hair dryer"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a constant vibration or buzz with same intensity\t"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "This sensations makes me feel alert"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a mobile buzz in your hands"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is more like a buzz which increases over time"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel enjoyable"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a micro owen"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/5\/2024 12:59:53 PM"
+	}
+}

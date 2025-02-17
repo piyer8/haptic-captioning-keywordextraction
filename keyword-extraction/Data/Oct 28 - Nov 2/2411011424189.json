@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is slow and there's a 1 second gap between two vibrations."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel active. "
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an alarm"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a long buzz with very little gaps."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "Te makes me feel anxious and feels like something urgent."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of getting late to an event."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is steady and even."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm and the discomfort when it stops."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a massager."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation starts with a very strong buzz and the mellows down."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel discomfort due to it's inconsistency."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is small and prickly"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel irritated and confused."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of someone poking their finger on my shoulder continuously."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is coarse and rough."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel weird and feels dirty."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of driving vehicles on gravel."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is one long vibration that starts steady but slowly becomes gritty at the end."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel relaxed at the start and ends up being confusing."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is rhythmic. "
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel enjoyable and pleasant."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of beats of music."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is uneven."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel angry."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is sharp."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel strong."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "The sensatin remind me of EDM music."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is bumpy "
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel stress"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an ECG machine."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is fuzzy"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel quiet and focused."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a xerox machine."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is rhythmic."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel pleasant and comfortable."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "The sensatin reminds me of the beats to a song."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "The senssatin is strong and intense."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel serious."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an stressed situation of decisin making."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is neutral"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "N.A. "
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is rough."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel thrill."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of starting a motor bike."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 2:24:11 PM"
+	}
+}

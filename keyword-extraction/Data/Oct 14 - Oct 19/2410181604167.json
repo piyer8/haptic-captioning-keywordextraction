@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a bit like a melody that feels like a growing thumping sound."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel suspense and excitement."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the sounds played in a thriller movie before something bad is about to happen."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a alarm which rings periodically."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like i need to wake up from the bed and become aware."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the ringing of an alarm."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very mild and in a 3\/4 beat patern and faint."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the croaking of a frog."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a very fast and loud crowd jumping in a concert."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic and excited."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "This sensation makes me feel like I am at a concert in front of the speaker."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a vibration is felt from a distant object kept on the same table."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel annoyed."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of someone's phone vibrating in the same library table."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a slow and scary beat."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel suspense and thrill."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the sound track before a fight scene occurs in a movie."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a melodic vibration repeating in a pattern."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel active and excited."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the chants made by the crowd during a football game in a stadium."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a soothing and humming vibration."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel relaxed and at peace."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the background soothing music played while meditating."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a modern waltz like music."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic and happy."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the songs played while performing waltz."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a growing and distorted vibration."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel uneasy and bad."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "Thsi sensation reminds me of the music which is off tune."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like that of a constand and repetitive knocking."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel discomfort."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a printer printing a piece of paper."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a sudden scratching like vibration."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel uneasy."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of animals scratching their claws on surfaces."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like the heart beat."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel neutral."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the heart beat."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like the sound of multiple birds flapping their wings all at once."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of birds flapping their wings."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like that of a car with a broken engine that is trying to start up."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel unhappy and dissatisfied."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the engine failing to start up."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a repetitive revving of a bike."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel excited and thrilled."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a bike revving its engine mildly."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/18\/2024 4:04:27 PM"
+	}
+}

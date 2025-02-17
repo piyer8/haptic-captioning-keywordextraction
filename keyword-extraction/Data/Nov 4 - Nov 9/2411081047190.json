@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like tiny soft taps on my palm.\t"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel a bit irritated."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "By brother used to annoy me with such taps till he gets my attention, hence a little annoying."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a car running on my hand."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel like I was riding a car on a console and taking a soft right turn."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "It kind of reminds me of console car games haptic feedback."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a growl from my empty stomach."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel hungry."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "The growling sound or feeling of the empty stomach feels very similar to this sensation."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a message notification from a nokia phone \/ tone."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel a bit nostalgic."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "It reminds me of my first phone which used to vibrate in a similar pattern for message notifications."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very soft and felt long."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "The sensation was too soft, but I could feel my heartbeats at my fingertips."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a wave, soft tapping increasing in frequency and then fading away."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel a little calm."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "This reminds me of one of the modes in a massage mat I have at home."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a music pattern. Ba-da-dum dum, Ba-da-dum dum."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel a little happy."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a little coarse, felt like how my phone vibrates when an alarm rings."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "Somehow it makes me feel more sleepy."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "It reminds me of every morning alarm."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a long piece of instrumental playing."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel good."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "It reminds me of speakers. When you place your hand on a woofer, how the hands vibrate according to the music, it had a similar feeling."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very mild, like a little scratch from an ant."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt like I was trying to close a zipper on a bag,"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel a bit hurried."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "It reminds me of trying to forcibly close the old rusted chains \/ zipper of my old bag,"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a quick burst of of rhytm, or like a frogs croaks."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel bloated."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a frogs croaking."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "This sensation had like two strong beats and then the intensity decreases."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel energized."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "This reminded me of a sudden accleration of a vehicle."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like little knocks on my palm."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel relaxed."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "Do you know, when a doctor checks your knees with that slight hammer tap? It felt like that."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like the vibration you feel when you move a piece of furniture against something. The vibration was fast at the beginning and then it slowed down."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel nervous, like I was doing something wrong."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "I have felt this kind of sensation before when moving furniture around the house, but wiht more intensity."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was similar to the small kinds toy where there are many small balls inside the toy and that make noise."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel happy."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "This reminds of the kids toys that have like small balls inside that make a drizzling sound."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/8\/2024 10:47:15 AM"
+	}
+}

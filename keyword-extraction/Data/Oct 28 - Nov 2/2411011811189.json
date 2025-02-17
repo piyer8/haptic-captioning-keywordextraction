@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a slow heartbeat"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel anxious."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a heartbeat"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is three continous buzzes which goes low-high-low"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel surprised"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a car honking"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continous wave which increases and decreases and has a pause in the middle"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel disconcerted"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a vehicle moving and stopping"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation starts out loud and fades away"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of hitting some metal with a hammer"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a set of sporadic, irregular beats"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "The sensation was unsettling"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "Yes, it reminds me of a marching band"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a chaotic continous vibration"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel energised."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a video game controller"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a continuous buzz "
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of riding a bike"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was a buzz followed by two quick beats"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel anxious"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a fast heartbeat"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had three scratches followed by a long buzz"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel tense followed by a release"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a disconnected rumbling"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a washing machine"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is two pulses repeating after an interval"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel ready to start a task"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of an alarm"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a fading pulse repeating over and over"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a washing machine going fast"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very grainy, like running my hand through rocks"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "The sensation  made me feel uneasy"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of shaking a jar with stones in it"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a continous vibration which sporadically gets louder"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel jittery"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "The senation reminded me of a blender"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continous and shaky"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "This made me feel nervous"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of an earthquake"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "The sensation increased then decreased in intensity"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 6:11:13 PM"
+	}
+}

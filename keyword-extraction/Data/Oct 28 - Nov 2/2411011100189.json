@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "the signal was slight buzz\t"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "the signal gave a reassuring feeling\t"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "the signal reminds me of a phone vibration upon receiving a message"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations were long in duration with changes in intensity\t\tthe "
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "the sensation gave a pleasent feeling\t"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "it reminds me of vibrations felt when playing a musical instrument"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "the intensity of the vibration kept slowly increasing\t\t"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "it gave a relaxing feeling"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "the vibrations reminded me of those felt on a video game controller"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "the vibration starts off pretty intense and it gradually decline, with a short vibration in the end\t"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "the vibration felt reassuring"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "it reminded me of the vibrations felt on a video game controller"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "there were sudden bursts with slight taps\t"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me a feeling of urgency"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "it reminds me of the vibrations felt when a mobile phone rings"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations were intense with some dips in intensity"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me a feeling of calmness"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "this was similar to the vibrations felt when playing a musical instrument"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations were steady and constant"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me relaxing feeling"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "the vibrations remind me of those felt when a washing machine is running"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations felt were sudden\t"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me a feeling of urgency\t"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "the vibrations were similar to those felt for a phone notification"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations were repetitive, with low and high intensity"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me an exciting feeling"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "the vibrations were similar to those felt when a car upshifts and accelerates"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations had medium intensity with sudden stops in between\t"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me the feeling that something needs attention but it isn't too urgent"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "the vibrations reminds me of in-app notifications when using a mobile phone"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "the vibration has a slow rise in intensity and a sudden drop in the end"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "the vibration makes me feel that something needs my attention"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "the vibrations were similar to that felt when a mobile phone rings"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "the vibration has a steady rise and a steady fall in intensity\t"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me an irritating feeling"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "the vibrations felt were similar to that felt when the dryer is on"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations had frequent up and downs"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations made me feel energetic"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "the vibrations remind me of vibration felt when music is played at a club"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations where high intensity ones when short breaks in between"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me a feeling of urgency\t"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "it reminds me of the vibrations felt when a phone rings"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations were intense and constant"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations gave me an unpleasent feeling"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "the vibrations were similar to that of a phone alarm"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "the intensity of the vibrations were slowly increasing\t"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "the vibration gave me a feeling of urgency\t"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "the vibrations were similar to that felt when a phone rings"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 11:12:39 AM"
+	}
+}

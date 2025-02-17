@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like an light, even drumming. "
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of someone rythmically taping their foot. "
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like sporatic pulsing."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel alert."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the vibration from my phone when an alarm goes off. "
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a drumming rhythm."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel safe."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a beating heart."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : " I woulde describe this sensation as a building energy that then is released in two beats."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel alert."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as 1 2 3."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel distant."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my electric toothbrush."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a directionless pulsing."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel encouraged."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the beat of a loud energetic song."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a POW powpowpowpow repeated."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel apprehensive."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "This reminds me of tapping on the same muffled piano key."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "I owuld describe this sensation as a tap tap taptaptaptap repeated. "
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel alert."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this senation as a swollen pulsing."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel uncomfortable."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a bad headache."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a low constant vibration."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel cautious."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "This sensation  reminds me of a bad earthquake."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a clapclap dumdumdum."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a exciting phone alarmm vibration."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a raspy droning."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "This sensationmakes me feel annoyed."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of wheezing."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like the subtle chopping of sound waves."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel constricted."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the sound of a nearby helicopter or large fan."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like an impatient buzzing."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel anxious."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a phone alarm."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like passive dragging."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel contempt."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a massage gun."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a stomp stomp roar."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "This snesation maes me feel shaken."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a vibration coming from an adjacent room."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/14\/2024 11:11:52 AM"
+	}
+}

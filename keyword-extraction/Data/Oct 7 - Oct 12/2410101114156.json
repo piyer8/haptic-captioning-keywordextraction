@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was rhythmical "
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calming\t\t"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "It reminds me of my phone when kept in vibration mode"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was intense and full of energy"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me energetic"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "This reminded me of a massage chair"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "This sensation were annoying. It was not rhythmical"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel discomfort\t"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "It reminds me the sound of an engine"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "This sensation were rhythmical and steady. It went in ascending order\t"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel comforted"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a foot massager"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation were exciting and thrilling, It was more like an alarm clock"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel electric"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "It reminds me of alarm clock"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The sensation were active, I was able to feel the vibrations moving on and off through my palm"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel active"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "It reminds me of massage chair"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "The sensations were uncomfortable and unpleasant. It was not in a rhythm"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel weird"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "It reminded me of of my laptop. "
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was energetic and exciting. The buzz was quite thrilling"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel active."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "It reminds me of alarm clock"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was in rhythm and fast. It was in sync. "
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me instantly energized.\t"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the sound of a bike"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was weird and discomforting. It felt annoying to feel it as it was uneven."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel unpleasant."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "This sensation were calming and relaxing. Vibrations were quite low but it was comforting"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel warm and comforted"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "It reminds me of my pc getting started"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was aggresive and more intense from the beginning. It started and ended with unpleasant experience"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel unpleasant"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was thrilling and intense. The vibration was round in motion and it was energetic"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel excited.\t "
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "It reminds me of some buzz sound from movies"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "This sensation were uneven and weird. It was unplesant to experience it "
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel uncomfortable and annoyed"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a disturbing sound "
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensations were even and active. the vibrations felt stimulating and electric"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel energetic and evoked excitement"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "It reminded me of a alarm clock"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "This sensation gave a sense of urgency, It was alarming and fast."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel neutral"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "It reminded me of my alarm"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/10\/2024 11:14:10 AM"
+	}
+}

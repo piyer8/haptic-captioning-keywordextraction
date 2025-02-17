@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was reapeting in pattern of 4 beats"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "The sensation felt calm"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like my phones alarm vibration"
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a flat steady vibration followed by 3 beats where the second beat of the 3 beats felt a bit different than the rest."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "the sensastion made me feel anxious"
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like someone's heart rate monitor readings"
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like random beats "
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "sensation made me feel uncertain"
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt like it started strong and steady then decresed in intencity in a jerking fasion "
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel discouraged"
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "It felt like when someone is trying to start a motor or engine with a belt or outside physical force but failed to start the motor or engine"
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "Each sensation felt like increasing rapidly then lossing its intencity"
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "sensation made me feel thrilled."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "It felt the same as when I give raise in my bike and let go of it."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "sensation felt very jagged and aggressive"
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel fearful"
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt very frictional and sporadic"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "Sensation felt like Intimidating"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a chain saw."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt like vibrating and buzzing in a pattern"
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "Sensation felt very annoying"
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "Felt like someone is crying"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt slippery and discomfortable"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feelIt made me feel nervous and panicky"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "Sensation Felt like slipping on a upwards slide."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt very steady long vibrating"
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel Worried and guarded"
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like someones hungry stomach sound."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt very buzzing and machine like"
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like someone is operating a buzzing machine"
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt fuzzy and stimulating "
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel calm and joyful"
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like a massage."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt like a rhythmical and steady"
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel Confident and proud"
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like the vibrations I get from using a automatic Machine gun in a game."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "Sensation was sticky and weird"
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel discomfortable."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "Sensation was very tender and neutral"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel like I was drained and Exhausted"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like a amchine trying to sends its co-ordinates before shutting down."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "Sensation was intense and sporadic and aggressive with vibrating and buzzing sensation."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel agitated."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like an emergency alarm."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/15\/2024 11:03:39 AM"
+	}
+}

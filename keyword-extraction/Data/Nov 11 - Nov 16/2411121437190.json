@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is a continous beep sound."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel energized."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of water drops falling."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is like a motor running."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel baffled."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "Sensation felt like a bike reving."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is very mild continous signals."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is kind of sad."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is increasing at a high rate."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels like anxiety."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is so mild vibrations."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels like being depressed."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is like increasing beep sounds."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels confused."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of someone snoring."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "N.A."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels awkard."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of smashing things away."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is increasingly weird."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is scary."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of scratching something continously."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is continous vibration."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is angry or annoyed."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me like drilling a wall or a floor."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is very soft."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel empty."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "N.A."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is weird."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of unzippping a sweater."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is a wave like feeling."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is afraid."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of starting an engine."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "N.A."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels like disturbed."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of snoring."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is very mild beep sounds."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel sad."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of mild background sounds (drums)."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is like waves."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels like breathing."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of car reving."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is vibrating at a breathing rate."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "Sensation make me feel calm."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "Sensation is like breathing continously."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/12\/2024 2:37:47 PM"
+	}
+}

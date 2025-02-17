@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has high frequency and low intensity."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel afraid."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "It reminds me of fast heartbeat."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has high intnsity and high frequency."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel energized."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "It reminds me of andrenaline rush while driving motorcycle."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is low intensity and changing frequency."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "It makes it feel Joyful."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "It reminds me of music."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is intense and rushing."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel rushing."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "It reminds me of speeding motorcycle."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is intense and frequent."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel alarmed and anxious."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "It feels like an alarm."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is intense and changing frequency."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel excited."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "It reminds of a feeling of about to score a goal in a soccer match."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is intense and fast."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like schoked or exploited."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "It reminds of knowing missed deadlines for homeworks."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "It is intense and smaller bips followed by longer one.\t"
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel hopeful."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "It reminds me of being confident about something."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "Its intense and changing frequency."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel impatient."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "It reminds of trying to escape the traffic by speeding."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is less intense and smooth."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel relaxed."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "It reminds of massage."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is varrying between intense and non intense bips."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "It feels alarming."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "It feels like a fire alarm."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "The sensation if intense and varying frequency."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel energetic."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "It reminds me of riding a motorcycle."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is changing frequency at first and becomes smooth."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel encouraged."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the feeling of getting something done."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a music beat."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel joyful."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "It reminds me of music."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is not intense and feels like fading."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like defeated."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "It reminds me of missing a deadline."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is changing frequency and is intense."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel confused as it keeps changing the pattern."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "It reminds me of attending a mexican program where I dont understand the language."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/13\/2024 4:42:21 PM"
+	}
+}

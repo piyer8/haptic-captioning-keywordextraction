@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "This sensation starts with a boost and then gives small pulses in unequal intervals."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt energetic."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "This sensation felt like starting an engine."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was two boosts of vibrations in regular intervals."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt like excitement before doing something new."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "This sensation was like when you are accelerating a motorcycle at a red signal."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was rhythmical with a big initial boost."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel reassuring."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the big drum in the center in a drum set."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was intense and rough."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "This sensation was unpleasent."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the vibrations we get from the machine when we try to drill a hole in a metal piece."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was uneven and coarse."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt urgent."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to the phone alarm vibrations."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "This sensation starts with a small boost of vibrations and then there is an intense boost of vibrations."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt thrilling."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "This sensation feels like the vibrations we feel from a basketball while bouncing it."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was vibrating and hot."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels active."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is similar to ringing a huge bell where the vibration moves from high to low intensity"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "This sensation gives me a steady feeling"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a huge bell."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a machine vibration which is bumpy."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel irritated."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to a printer."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is continuous with varying and uneven intensities."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel angry."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the machine whis is used to polish the surfaces."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is rhythmical and firm."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel panicky."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a typewriter."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was a little resistive and fuzzy."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels neutral ."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "This sensation is very similar to a person snoring"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is bumpy and muddy."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels reassuring."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of an epillator."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is frictional and prickly."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is unpleasent and annoying."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the feeling of being present in a car moving at a high speed"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a vell lubricated machine and smooth."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels intense and enjoyable."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a gokart."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : " This sensation was like a rhythmic and sharp buzz."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels funny."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a dog barking."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/17\/2024 3:14:16 PM"
+	}
+}

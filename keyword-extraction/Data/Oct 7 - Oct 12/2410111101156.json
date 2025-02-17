@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feels calm"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a some light object falling"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like we can feel the vibration intensenly"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel bit vibrant kind of strong"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the smart watch alarm "
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is not continuous, it's like there are some jerk in between "
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel discomfort i would say"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the medium vibration happens during the mobile alarm"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like if the vibration happens from low to high speed"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like there is a buzz happening when I feel"
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me when we just about to start the scooter, when the engine runs it makes this kind of vibration"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a continuous high speed vibration with out any jerk in between"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel irritating and bit harsh"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the snooze happens in the mobile alarm"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a continuous jerking with a medium speed "
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is bit discomfort to feel"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of when we listen to the bullet motor bike engine with medium speed"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like very low continuous jerking"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel comorting"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "This reminds me of if there is a vibration attached to the ticking of the clock"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "This senstaion is very strong and it is continuous high speed vibration"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel bit aggressive "
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the brushing teh hair in high speed using the blow brush"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is constant high speed vinration happening"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is very familiar "
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the heart beating when we are running and just took rest"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is bit harsh and there are other vibration included in this like I feel there is a small sort of vibration in the lower end of the machine"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is very weird I would say"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "This reminds me of something like small vibration and then it stops and then there is a high vibration which i never felt before"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is first it is of low speed then it goes upto high speed with kinf of jerk at the end"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is very active"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "This reminds me of blowing the water while we are drinking from the cup"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is constant knocking of the door with same speed and same time"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel kind of irriated but not that much"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of one of the alarm sound and its like continuous knocking on the door with same energy and with same speed"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "Very very high vibration"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel somthing is very aggressive"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the sex toy"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has all the speed from low to high with jerk"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "It is unpleasant"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "Like alarm vibration"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The senation is like high speed with low and then there is a jerk "
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "It is not that good"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "I have not felt this"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is of not low not not medium speed "
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "It is pleasant"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "dropping of rain with low vibration"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/11\/2024 11:01:06 AM"
+	}
+}

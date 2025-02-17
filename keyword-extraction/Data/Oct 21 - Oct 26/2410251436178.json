@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was passive but persisted long enough"
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel a sense of urgency but not a critical situation."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "I could associate this sensation with a vibrating phone."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "This sensation reminded me of a heartbeat"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "Thie sensation made me feel calm"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a steady and slow heartbeat."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt like white noise and did not have any structure."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel ambiguity."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was jagged and did not have a distinct pattern."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "I could attach uncertainity with this sensation."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "This sensation reminded me of rain or dripping water"
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel pleasant."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of time ticking quickly."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was aggressive and persisted for a long duration."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "I could associate this emotion with fear."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of something being chased by a big and heavy creature."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt like a musical note and had a certain structure to it. It was calm and upbeat."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel peaceful and at ease."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a beat to a song."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had an uplifting tone to it and was of a repetitive nature."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel reassured"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me a marching band."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very active and intense"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel energetic."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of the background music used in songs and the song intensifies with time."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had a rhythm to it but was not necessarily urgent."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel purposeful and optimistic."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a ringing phone."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "The sensation started off intensely but waned as time went on. It had a particular structure to it."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of life in general where things go up and down."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was intense and felt urgent."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel like up taking up an action that I had been neglecting for so long."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a washing machine which lets out a signal after the wash cycle is complete."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "The sensation started off slow but grew in intensity. It was sporadic in nature."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a machine which is processing a repetitive task"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was exciting, persistent and active."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel upbeat."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a night club or a pub playing loud music."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was loud, intense and periodic in nature."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel energetic and proactive."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "This sensation made me think of EDM music with a loud bass."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was persistent and upbeat."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel a bit restless."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a washing machine which is in the middle of its washing cycle. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/25\/2024 2:36:15 PM"
+	}
+}

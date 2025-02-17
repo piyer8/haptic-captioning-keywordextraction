@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was in the burst mode. It's intensity kept increasing gradually. The duration between each sensation was almost half to the sensation duration."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "The sensation maked me feel like a roller coaster ride where with each time the intensity was increased, it was more exciting."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "the sensation reminds me of my phone alarm that keeps increasing for the first few seconds."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continuous with increasing and decreasing intensity like a sine wave."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel like I was inside a whirlpool."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the washing machine spinning clothes."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "The sentation was abrubt. it had 3 high intensity peaks where the third intensity peak had a much more haptic control than the other two."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel like someone singing abrutly."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an orchestra where the singer ends on a high pitch."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was having a very low intensity with 2 burst intensities in between."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm and quiet."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a boat sailing in the sea with waves crashing the boat slowly."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was discontinuos and felt like a heart beating at 140 beats\/sec."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel enjoyable as if I was in some concert."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a drummer playing drum."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was discontinuous with the discontinuity length equal to the haptic length. The sensation had a very low and uniform intensity."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel like buzzing."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of someone farting."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is discontinous with all the burst in some rythm."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel alarming and resistive."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of army parade."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has 4 burst each of low intensity followed by those of high intensity alternating."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel thrilling."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a suspense movie where the climax is being built up slowly in waves of up and down."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has a short burst followed by an elongated burst alternating."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel nasty."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a fading frequency of a tuning fork."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is alternating burst of elongated and short burst with 2-3 short spikes in between."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel like panicky."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of fire alarm drill."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is discontinuos with 3 burst of decreasing time duration."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel sporadic."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a bubble gum inflating gradually and then bursting."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was uniform with low intensity and the time of the gaps in between the sensation was same as the sensation time."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel steady."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me og my phone when in silent mode."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has low intensity with its time of occurence gradually increasing inversly with decreasing intensity."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel annoying."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a bouncing ball droped from a height."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continuous with occasional disruption of haptic feeling."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel like desirable and steady."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a person in ICU ocassionaly coming to live and his ecg is changing."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has 4 bursts with high intensity with vey little gap in between them."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel energetic."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of someone pressing the accelerator of a car."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is of low intensity with 2 short burst followed by a long burst.."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel exciting."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a mechanical typewriter where someone is entering two letters and sliding the bar for new line."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/24\/2024 3:01:24 PM"
+	}
+}

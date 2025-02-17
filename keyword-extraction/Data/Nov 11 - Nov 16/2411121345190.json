@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "sensation to someone else feels like a blinking ."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "sensation feels like blinking an eye."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "sensation feels like bumpy"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "sensation make me thrilled\t"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "sensation feels like i can barely feel lt its so light."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "sensation to feels like very disoriented"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "feels like ripping some thing ."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "sensation feels like a small 12v motor running at low voltage."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "feels like a joyful"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "feels like i am having a motor of a remote car in my hand."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "senstaion feels like a pulse."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "feels like the feedback i get from one of the game is used to play."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "feels like one big vibration contunied by two small vibration"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "feels like there is bump in vibration evry 1sec"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "sensation make me feel Joyful"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "this feels like changing the gear of a cycle"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "sensation feels like very uncomforatbel and craky.\t"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "feels like rubbing nailes on black board"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "senstion feels like taking pulse from my hand  like need to concetrate and feel"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "NA\t"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "felt like i am taking my own pulse from hand"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "sesnation feels like something is getting harsly pulled over a concrete road\t "
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "feels like crushed\t"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "senstaion feels like a soothing wave form\t"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "semsation make me feell energized"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "feels like a neck massager in my hand with low intensity."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "senstion feels like on big wave geting intensity reduced folllowed by two small vibrations"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "feels like washing machine while its final round."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "feels like ticking time "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "Feels like wearing a mechnaical watch"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "sensaion feels like strugling engine"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "sensation make me feel disappointed"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "feels like engine not abel to start"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "feels like a small disoriented vibration"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "NA\t"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "NA"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/12\/2024 1:45:36 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The sensation I felt was like a bumpy-feeling."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "I could relate this to a pulse-check."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of me crashing any car in a video game."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like a buzz."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like a harsh vibration."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "It reminds me of an Alert."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "This sensation makes me feel like I'm taking a massage, maybe. It has a constant waves which are pleasurable, indeed."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "The vibrations were soft to feel and It was relaxing."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "I felt like I was holding some accu-puncture product for muscle relaxation."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a smooth wave, it is steady. It was like a perfectly engineered speed-braker :)"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like there's a constant wave, coming-up."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "I could resemble this sensation when I get on a boat; sailing."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "The sensations was very electric-rythemical, it was going one by one and you could feel it like a heart-beat."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like charged."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "I have felt these vibrations when current passes through my body, in the cases like earthing."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like, when you don't have anything for too long and your stomach makes weird sounds. These vibrations were exactly like that. The Vibrations were very grainy."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel hungry."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "Yes, I've felt such kind of vibrations before, they are the first thing I feel when I'm very hungry."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like, when we try to accelerate a car while pushing on the clutch."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel very unpleasent."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "It made me feel very greasy and too much of a buzz-sound."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like 1..23, 1..23 in sequence for me. there was a gap after the first beat and it felt very active."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel active, as If it's waking me up. I'd wakeup to this for sure as an alarm."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "Yes, I feel it when I'm dancing; music."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was exactly like, when you are out of gas in your car while you're crusing on a highway and your car makes weird noises while being decelerated."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel tensed, worrying that something have happened."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "Yes, A car\/any subject getting dead any moment."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "It is a firm noise, I could feel when I'm very anxious."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel that something fishy is happening around."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "I didn't feel anything as such, it I can sense similar vibrations in me when I'm very anxious."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "It is a constant, unpleasant vibration, I've felt. It is definitely not comfortable to feel it for a long time."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "It make me feel like a threat."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "It is very rough and a high intensity vibrations, I felt it when I was on ships."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "The sensations were a little wooly and they didn't seemed to be constant. It was like a motor working on three operations, and getting back to the square one."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "It was like a motor with three level mechanism\/operations."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "I never felt these kind of vibrations. N.A."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "The sensations were very grainy and aggresive, they are not panicky but a little high in frequency."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel alerted."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "I have felt this when drums are played around me. "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations are soothing to feel, they seem like they're in a pattern to communicate something."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "I could feel like those vibrations had a message."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "I felt like these kinds vibrations are used in movies to communicate dialogues to the audience without being said."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "These vibrations felt irritating, it was like a heavy wind near the coast, the intensity was high but; didn't feel like constant."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel like a heavy wind."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "I remember I felt these kinds of vibrations when I was near NY coastline."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "I exactly felt like a caterpillar or a rattle snake moving. The sound could match a 100%."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "It made me feel like a rattle snake was moving around me. "
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "This also resembles a constant, rubbery feel while sensing it."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/6\/2024 4:45:38 PM"
+	}
+}

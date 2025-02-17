@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is constant and light."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "The sensation feels like taking a bike ride on a consistent gravel road."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is light and vibrates at an elongated followed by short time span."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is annoying as it is triggered on unenven time intervals"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of pulling a steel wire from a motor."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is light and consistent"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels constant."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "The sensation felt like placing a hand on a small motor"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is weird with uneven time interval"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is irritating."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "The sensation feels like a cars vibration while changing gear."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is calm with short and slightly long time intervals"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is calm."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of pulling a thread from a spool."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is combination of light and slightly high intensity vibration"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels like a machine"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of placing a hand on a printing machine."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has equal rhytm and time."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel active"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a feeling vibrations of a sound system from a distance."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "N.A"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel irritating"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "The sensation feels like trying to start a broken motorbike"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has light vibration at start and three short vibration of slightly high intensity"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel irritating"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "The sensation feels like placing a hand on a radio which is set to a noisy frequency"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "The sensation intensity is too low."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the vibration I feel when I place my hand on a wall behind which a speaker with low volume is being played"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is combination of low and high intensity with unenven time intervals."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an ATM machine dispensing cash."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has medium intensity vibration with even time intervals"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel calm."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of trimming hair with a hair trimmer device."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has short medium intensity vibration and long low intensity vibrantion"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an ecg report printing device."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is low intensity and rhythmic."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels calm."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of standing on short distance to a military parade."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has uneven intensity and time interval"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is irritating"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of riding a bike in heavy traffice"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is medium intensity vibration for an elongated time with three short low intensity vibrations at the end."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel hesitant"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of reaching at the peak of a roler coaster."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/10\/2024 6:17:47 PM"
+	}
+}

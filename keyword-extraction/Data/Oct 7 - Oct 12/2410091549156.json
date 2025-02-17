@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "I can feel a medium frequency sensation which is in a rythm and goes like high, medium and low."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "It is similar to heart beat."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was strong and it went on a high note followed by a medium vibration longer than the note."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel active."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "This was similar to a buzzing sound of a phone or tablet."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is of a low frequency which is goes on like a medium note of vibration."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels good."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "This is similar to a vibration of cutting a really thick sheet of cardboard if listened continuously."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "This sensation goes on like a buzz sound from lower to a higher frequency note."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is relaxing."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "This reminded of a the ring while we wait for the reciever to answer a call."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a high frequency sensation going from a higher note to a lower one decreasing gradually. It is like someone "
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel urgent."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to a the hammer hit game. The sensation produced is same as the one after hammer strikes the surface."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is on a medium frequency giving the same notes repeatedly with small gaps."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "This sensation gives a feeling of discomfort and irritation."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "It is similar to scratching wood with a sharp object."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "It is alow frquency vibrartion giving lower notes a constant pace."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is kind of pleasant."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "The vibration is similar to the sound of breeze which can be heard on a quiet beach."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "It is a high frequency vibration which goes constantly from higher note and reduces to the lower note in a continuous manner."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to the sound that washer dryer machine makes when drying out clothes. Also, the sensation is similar to when a sports motor bike engine starts."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "This sensation goes on a higher note followed by a lower note immidiately and it goes on fast in a rythym."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is making me feel a bit weird."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "The vibration is similar to the sound of a moving bull-dozer."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is three high note vibrartions on a medium pace in a rythm followed by a very small frquency note."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is enjoyable."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to a sound of a drum-roll."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a medium frquency vibration which is on a constant note and goes on in the same speed throughout."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is a little relaxing."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "The sensation is similar to the one which a mixer-grinder makes on a low speed."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a medium-high frequency vibrations going on continuously with gaps in between at a constant rate."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "The sensation is intense."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "It is similar to the strong vibration that was there in the old mobile phones."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a continous high frquency vibration."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels a bit arousing and urgent."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to the one my phone makes when on vibration mode."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is of high frquency giving high, medium and low notes following each other at a constant rate."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "I feel a little anxious."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "The sensation is similar to the sound that can be heard from a washing machine at the end of a cycle."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a hight frquency one which has three vibrations at equal gaps but the third one goes a little extended while the first two  are similar ones."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "I have a feeling of activeness."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to the vibration my fitbit watch makes after the completion of a certain activity goal."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is of a low frequency making continuous vibrations with a gap in the first two constant paced similar vibrations and the third one goes longer having the same note as the first and second."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "The senation is giving a neutral feeling."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to the the sound that a hand fan makes on a low to medium speed."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/9\/2024 3:49:58 PM"
+	}
+}

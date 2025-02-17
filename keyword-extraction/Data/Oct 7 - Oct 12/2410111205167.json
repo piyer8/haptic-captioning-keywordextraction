@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "The senatation is rythmic sensation which you feel something like scratching\t"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels a little calming and comforting\t\t"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "The sessation reminds me of the massages which we get for back pain "
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is fast paced vibrartions which one experience with mobile calls"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel the need of urgency to pick up the call or do any task quickly"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me to be in hurry or finish the task urgently "
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very low paced and difficult to recognize it. "
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel little irritated."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the time when we sleep while resting our head on the bus window. "
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is steady vibration , not too strng not to weak"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like things are buzzing around me.\t"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the scenario where a bee or a house fly just buzzez near our ear and irritates us. "
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "Tgis sensation is a periodic vibration with a little gap between each vibration.\t\t"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel pleasurable and comforting"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the time when someone is giving you full body message and you are just relaxing"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is periodic sensation , where in for each period the vibration starts strong and then it fades down gradually"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "The emotion makes me feel excited in the beggining and then as it slows down I also calm down\t"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "This emotion reminds me of starting a bike or fuel scooter, where when we ignite the vibrations are strong and then become moderate once we accelarate"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is rhythamic is combination of week and strong vibration with a little irregular pattern."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel irritated as it has a irregular patter\t"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the time when we trying to start a feul based vehicle , but it is not starting."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a regular vibration which is weak and soft "
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "This senstion makes me feel neutral"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me when we shave using any electric razor."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is aperiodic with some string fast vibration followed by few slow vibrations. "
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel anxious"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "It reminds me of my table clock alarm which rings early morning on my desk"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This is a periodic vibration where for each period the vibrations are stable just getting little weak before starting again"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel steady\t"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time when I am acclearting and deacclerating my bike of free-way"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is constant vibration with medium strength in the vibration\t"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel edgy"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of being on a motor boat"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "This sensation follows a pattern of being very weak and then increasing its strength little bit with a small gap between "
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel nasty\t"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a rhytimic bumpy vibration\t"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel neutral\t"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the time when we fill water from a fully files water tank "
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a mixture of bumby and weak signals together"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel neutral\t"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is periodic vibration which is familiar to all"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel neutral\t"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "It reminds me when my mobile alarm rings and my mobile is kept on the mattress"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a little weak vibration with a sudden strong vibration in betweeen\t"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "Thi sensation makes me feel relaxing\t"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This reminds me when I am revving the vehicle smoothly at night at a signal "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/11\/2024 12:05:06 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is like a coarse surface. In the beginning it is more smooth but with each iteration it get more coarse."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "This vibration make me fell a bit irritating."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of a rough sandstone like material."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The vibration starts with steady buzz but then it transistions into a impulse of very rough vibration."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me fell sporadic and urgent. "
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This vibration fell like a alarm system vibration with it short burst of rough vibrations."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "The vibration is very  jaggedy."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "This vibration feel like relaxing."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of a grinder."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is like very mute beeps, it feels little bit prickly."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "This vibration make me feel active."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of vibration through the phone when it receives a call."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "This vibration feels very bumpy with short pulses."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me fell discomfort."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "This vibration feels like a irregural heart beat."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is like three short constant grumble. "
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "This vibration make me feel calm."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "This vibration is like growling of an empty stomach."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "This vibration starts with a short point pulse which repeats rythmically."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me fell active."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of vibrations from a speakers sub-woofers."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "This vibration has very low intensity prickly vibrations then it transitions into coarse vibration but it feels like its following a rythem."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel enjoyable and funny."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is very jaggedy and uneven."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "This vibration make me feel uncomfortable."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "This vibration is like cloth tearing."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is very rough and and uneven with no pattern to it."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel uneasy."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is gritty with an initila long pulse with progressively gets shorter but with same intensity."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "This vibration make me feel active."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "This vibration has gritty intenst vibrations with same intensity and time periode. "
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel like it is trying to remind me of something important."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "This vibration feels like vibration from a smartphone when receiving a call, which is set to full intensity."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is very low intensity jaggedy vibrations with some rough vibrations at the end. "
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel weird and funny."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "This vibration is like constant smooth vibrations with some point vibration pulses inbetween."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "This vibrations makes me feel good."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "This vibration has short instense prickly vibrations"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel energetic."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "This vibration has short clicks in the beginning then a constant buzzing vibration."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel active and excited."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "NA"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/23\/2024 6:09:17 PM"
+	}
+}

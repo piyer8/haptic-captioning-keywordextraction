@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "This signal feels like a heartbeat. It has two beats after each pause and is pretty slow "
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel comforted and calm "
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a sonography wherein I could feel the heartbeat and sound "
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "This signal feels more panicy and fast. It has quick vibrations which get quicker by time and suddenly slow down. "
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel the need to do things very quickly and a little anxious. "
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a gaming console racing car game. "
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "This vibration begins slowly maintaining the speed, does not feel agressive. "
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "This vibration made me feel good, it had the perfect buzz which would soothe me. "
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a massager used for massaging legs where it starts slowly and maintains momentum. "
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "It is a Very slow and gentle sensation, just like air that passes quickly. "
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "This is way too slow and makes me feel a little irritated because it ends as soon as it starts. "
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "It feels like the vibrations on bus or train, really slow and gentle. "
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "This is a very mild and neutral sensation, you can feel it very quickly with a slight buzz. "
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "This sensation passed very quickly, it felt familiar and comfortable. "
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "This reminds me of notification on social media platforms like instagram on mobile phones. "
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "The sensation starts with slower waves of vibration and as time passes gets a little aggresive. "
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt moderately prickly and was a litttle unpleasent to feel. It made me feel unconfortable and weird. "
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "Recently I was pricked by a thorn in a bunch of flowers, this sensation made me resonate with that feeling of being pricked or stung. "
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "This sensation starts and ends in the same frequancy of vibrations. It is very constant and steady. "
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "The sensation was very active and pleasant. It makes me feel happy with a positive and calming effect that it brings. This vibration brings me a sensation of relaxation and rest.  "
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "The constant vibration reminds me of sitting in an aircraft and the feeling of starts to get stronger as the vibrations go by.  "
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "This sensation could seem to be very familiar, slow in the begining and has a few bumps as it progresses ahead. "
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "The sensation initially made me feel a little anxious but later with the second vibration it made me feel enjoyable. It made me feel excited after feeling it twice. "
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the time when you are on some ride or roller coaster in the very initial stage before the ride actually starts. The sensation strongly associates with the machines starting on a roller coaster and makes you excited. "
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very similar to the pattern of an alarm or calls on phone when on vibrate mode. "
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "This senstaion makes me feel steady and calm since it feels like something you feel very regularly on a daily basis. "
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "This clearly reminds me on alarm or phone call when the phone does not have a volume feature. It is very common and part of daily routine. "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a heartbeat but very slow and mild with only sibgle beat or vibration at a time. "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is very pleasant and pleasurable as it gives constant vibrations without breaking the pattern. "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "It reminds me of music played in gym during our morning exercise and yoga session. "
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "This can be described as very constant vibration at the begining with a very strong and intense vibration suddenly. "
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "This did not make me feel very good as it came with a sudden strong break making me get a feeling of sudden fear or anxiety. "
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "This reminds of of sitting a car which is waiting for a signal that starts suddenly. The vibrations go from being slow and neutral to coming on a strong halt suddenly. "
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "It can be described as active sensations that you keep feeling constantly and know what to expect next also knowing it will last long. "
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel a little panicky and sensual becuase of long pauses in the middle followed by constant vibrations. "
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "This relates to the vibrations very similar to an electronic razor or trimming device. The senstaion comes with even pauses and not very intense vibrations. "
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "The sensation can be described as a vibrating object at the end of its lifecycle, with uncetain buzz at every stage. "
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt irritating and annoyong as I associate it with something that will stop working very soon. "
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of an electronic toothbrush whose batteries are soon going to get over. It is very rough and you feel uncertain on how long the device will last. "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "It could be described as a sensation that is constaly fast paced and very familiar. "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "I feel very excited and happy by this sensation as it seems to be familiar with my body and has constant good strong vibrations. "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "It reminds me of playing the real life car or bike driving game that comes with a thrill of playing quickly and excitment of what is going to come next. "
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "It can be described as heavy vibrations with 2 different strong sensations coming at a single time. "
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is making me feel extremely urgent and annoying. The vibrations feels very aggresive with A STRONG MIXED SECOND VIBRATION CREATING anxiety. "
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a mixer which is not working very properly and smooth to use. It has very intense vibrations. "
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "This can be described as a line of vibrations that come very slowly and feel very familiar. It has a pattern that can be easily predicted. "
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "This is a very familiar sensation that gives me reassuring vibe, it also makes me feel calmness and continuity. "
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "I associate this feeling with the feeling of a fan on the ceiling that is used in peak summer. It is very constant and continuous with mild vibrations. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 3:25:25 PM"
+	}
+}

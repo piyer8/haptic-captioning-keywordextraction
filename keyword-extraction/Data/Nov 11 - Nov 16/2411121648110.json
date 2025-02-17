@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is soft and in continous pattern.it has 4 repetative patterns"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "this sensation make me feel of mild touch gesture\t"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "i think i heave felt this during playing a mobile game"
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "this sensation starts with a strong pattern and then buzzes in the end. "
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel like to focus on someting."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "i have felt this sensation in my mobile during a notification."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "this sensation are soft but repitative sensations. these are continous."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "this sensation make me feel mild touch gesture."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "this sensation remidns me of riding in a train"
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is a strong and continous sensation. it has a strong feeling.\t"
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel like to pay attention to something."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my phone when i recive call."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "this sensation starts with a harsh buzz then ends with a mild buzz, it is continous in nature."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel uncomfirtable due to sudden change in the sensation."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "this reminds me of a video game "
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is very annoying. it consist of some random strong patterns ."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel very annoying."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of riding on a bike in freeway"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "this sensation starts with two storng short patterns followed by 2 mild gestures."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel attentive."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of focusing in a game."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "this sensation starts with two strong buzzes followed by a wavey pattern."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "this senstion makes me feel puzzled."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of surfing"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is very confusing.it starts with two strong buzzes tapering with short mild ones.\t"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel very confusing."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of solving a math problem."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "this sensation has short and repetative pattern with mild tone"
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel irritating"
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of doing someting i dont want to."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "this sensation starts with two short beeps followed by 3 harsh buzz"
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel determined."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of being determined for my coursework"
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "this sensation are very puzzeled, it starts with short beeps followed by a wavey nature."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel very puzzled."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of playing chess."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is like short continous beeps along with a two strong beeps palying together.."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel scared."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of watching a scary movie."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "this sensation has a repetative patterns of strong short beeps with a rythimic pattern"
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "this make me feel like i am energized."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "it reminds me of playing a song i like"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is very short and mild."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel sad."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of losing in a game"
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "this sensation is a mixed of strong buzzes which ends with a continous buzz."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel being controlled."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "this sensation reminds me of being in a examination room."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/12\/2024 4:48:16 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very light, repeating and short in duration"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel quite and just barely noticeable"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "This reminds me of slight movement of table lamp or something light"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was in 2 parts, first was short and the second was longer. And it was quit overall"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel good and active"
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "It reminded me of signals from a fitness band or some electronic wrist band."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was repeating, steady and subtle."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel soothing and quite"
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "It reminded me driving in a car and the patterns felt due to the smoothness of road."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very light in the start and the intensity increased graddualy and halted of a sudden."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel arousing."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a machine starting"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was struck intensly in the start, then echoed and stopped"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feeel good and calm"
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "This reminded me of the gongs or ringing of bells in the temple."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was group of small vibrations repeating periodically"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel neutral"
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was short repeating gushing of wind"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel calm and steady."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "This reminded me of the feeling of the wind patterns behind a fan."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "The sensation started with an intense vibration which calmed a bit resonating for a long time"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel a bit funny"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "I felt something like tickeling"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was short, quick, and repeating vibrations"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel alarmed"
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "This reminded me of the sprinklers in the garden, the way they rotate spraying water"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was mix of a repeating couple of low intense and high intense vibrations"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel neutral in general"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "This reminded me of some engine acclerating"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very mild and repeating"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "This sensation amde me feel sad and unpleasant."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "This reminded me of electric razor dying off on low battery"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was short, repeating and strong."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel a bit alarming and irritative"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "This reminded me off the parking sensor or proximity sensor in the cars"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very strong and continuous, although periodic but the pause was very subtle alomost unnoticeable at the end"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "This sensation make me feel concerning and urgent"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "This reminds me of my phone when it alerts for water in the charging port or tries to get rid of moisture in that port, it makes this kind of sensation."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was repeating, group of short vibrations with an abrupt change in the pattern in the end"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel excited and thrilling"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "This reminds me of any intense or starting scenes in the movies."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was group of long vibrations but not in any pattern"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel weird"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was mildly intense and repeating. The pause was barely noticabe."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "The sensaton made me feel alarm and panicky"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "This felt like the alarms during the fire drills or evacuation drills."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/11\/2024 10:05:20 AM"
+	}
+}

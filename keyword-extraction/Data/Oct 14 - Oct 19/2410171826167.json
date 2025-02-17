@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "i would describe this signal to someone else as there are long vibrations followed by shorter vibrations."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "the sensations gives me a sense of urgency."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "It reminds me of phone vibrations during an incoming phone call."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to someone as vibration which leaves a sensation for longer period of time."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "The vibrations makes me feel happy."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "the vibrations reminds me of travelling in trains "
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "I would describe it as feeling in your hands when you put your hands over a water dispenser."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "the vibrations feel exciting."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "the vibrations reminds me of boiling water."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the feeling as a constant buzz in your hands."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel nervous and agitated."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "The vibrations remind me of a electronic mixer when put on blend mode."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the feeling of the vibration to someone else as a long and heavy vibration which then later fades out."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "The vibration makes me feel active."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "The vibrations reminds me of revving a car engine."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this vibration to someone else as vibration with two longer vibrations and a small vibration at the end."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "This vibration made me feel some minor irritation."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of my roomate's ringtone"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a rythmic vibration."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This vibration made me pleasant and nostalgic."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of a song."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this vibration as set of four vibrations which has a longer and a shorter vibration in each set."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "This vibration made me feel calm and quiet."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of an ringing a call to somebody and waiting till they pick up the call"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this vibration to someone as there is no pattern to the vibration but at the same time it gives a rythm."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This vibrations makes me feel excited and alive."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "This vibrations reminds me of a vibrating dance floor."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the vibration as small but constant buzzing"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This vibration is unpleasant and annoying"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a mosquito buzzing near your ears"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone as small vibrations that are put together at same interval."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel scared and causes discomfort."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "The vibrations feel like gun shootings showed in movies."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "I would desribe the sensation to someone else as sporadic vibrations"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel discomfort and difficult"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "This vibration reminds me of someone whispering in your ear."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "i would describe this vibration to someone else as three short vibrations that are put together"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel good and enjoyable"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of heart beats"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone else as repetitive vibrations that are miliseconds away from each other"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel funny"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "The vibrations reminds of stomach growling when you are hungry"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone else as low and long vibrations with shorter vibrations at the same time"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This vibration makes me feel chaotic"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "It reminds me of chatter in a classroom"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone else as long vibrations which are fading out into shorter vibrations"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel irritated and angry"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This reminds me of sitting in a vehicle where someone is constantly pushing brake"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/17\/2024 6:26:58 PM"
+	}
+}

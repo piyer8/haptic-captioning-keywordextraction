@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a rhthymic heartbeat."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "I have felt this before while watching movies."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a long pulse of two vibrations."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel intense."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of rhythmical machine."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was noisy and coarse but with short burst."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel discomforting."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "It reminds me of bumpy and noisy but even speadbreakers."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a pulse that grows stronger until a point and drops drastically."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel familiar."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds a revving engine."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a pulse that grows more profound and stops abruptly."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel alarmed and urgent."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of an alarm."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a series of short burts but each burts get stronger over time."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm and confortable."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of soft droplets of water pouring."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a random short burts of vibration."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel confused."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a random noise."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a long burst that grows stronger over time."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel very urgent and alarming."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a buzz."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a short but continuous amplitude based pulses."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel excited."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "The sensastion reminds me of an engine that is not moving but making noise."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation consists of 4 high amplitude bursts and 1 small amplitude burst."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel aggresive."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of drum band."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a continuous vibration with some short bursts in between."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel frustrated."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a car engine that is not starting."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a short but constant pulse."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm and relaxed."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a steady dropping of water from a leaking faucet."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "The sensation are long burst but with constant amplitude."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel urgent and alarmed."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a buzz that went off."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "The sensation consists of 3 very short bursts and one long pulse."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel energetic and excited."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a motorcycle."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensation consists of two long bursts with different amplitude and a couple of small bursts with similar amplitude."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "The sensation gives me a feeling of rough road."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a rough and bumpy road."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The sensations are long but quick bursts with high amplitude."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel urgent and quick."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a fire training alarm."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/8\/2024 4:14:57 PM"
+	}
+}

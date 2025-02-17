@@ -1,0 +1,211 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a phone vibrating in your pocket."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "The senation felt a bit fuzzy and it wad enjoyable."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "I have felt a similar sensation before, like a phone vibrating in my pocket and I pick it up while its vibrating."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a phone vibrating, with a long frequency."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel a bit annoyed."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "I have felt this sensation when an alarm went off and it was right next to my head."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like the waves of ocean, increasing and decreasing slowly and steadily."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel relaxed."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the standing near an ocean while the waves hit your feet."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a big wave slamming your body."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel anxious."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of standing in front of a big wave while it's about to hit me."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is similar to water drops dripping from a closed faucet."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me calm."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of water slowly dripping from a roof into a puddle. "
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like sitting in a car while going over a bumpy road."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels a bit irritating."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of sitting at the back of the car while my mother drives on a mildly bumpy road."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like putting your hand over a mixer grinder or blender."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "I enjoy this sensation."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of using a blender to make a paste."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like a marching rhythm. "
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me excited."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of marching in the band following the rhythm of the drums. "
+			},
+			{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like a truck honking at you constantly."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel a bit weird.\n"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of sitting in car while a trucking is honking constantly in a highway."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like someone patting your back."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel a bit comfortable."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my grandma patting my head while I try to sleep."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like a washing machine doing its job."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel neutral."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of hearing a top-load washing machine from a distance trying to wash some clothes as the clothes push against the wall of the drum."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like you are trying to kickstart a scooter."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me happy."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my father trying to kickstart his old scooter."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like a scooter is just about to start."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me excited."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my father's old scooter when it is about to start and the motor makes some noise, but it eventually stops."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like bike passing by while throttling it's engine."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel alarmed."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of sitting in my school bus and a bike passing by with full speed with popping sounds coming out of the silencer."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like sitting in a bus."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me steady."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of sitting in an overnight local bus to go somewhere."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like a guy trying to rev his motorcycle by twisting the handle."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me excited."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my uncle revving his motorcycle when he's about to leave. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/30\/2024 5:44:33 PM"
+	}
+}

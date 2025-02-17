@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is light, irregular and lumpy"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel sporadic and weird"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "It feels like it's roaring like a lion"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "It feels like it's pricking under my veins. Some what Unpleasant."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensations make me aggitated and irritated"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "A part of the rhythm feels like I'm grinding my nails"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a bit calming intevals followed by a small hum"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels calming"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "The rhythm sounds familiar like a washing machine in the middle of a cycle"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is active, firm and panicky."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels  like an urgency."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a game where my character is dying."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is small hums with regular and equal intervals.\t"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of punching a bag really fast in quick motion."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is soothing and light."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels like a therapy"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of banging a utensil with a metal spoon"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very irregualar without any pattern and a bit irritating"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feels uncomfortable and restless"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "This sensation goes from strong to light at equal intervals"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm, tender and relaxing\t\t\t"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is strong and agressive. "
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel energetic."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a game where the team is ready to fight and jump into action"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is chaotic with no pattern and simulative"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a space fight game i used to play"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like fast and strong buzzing with irregular timing"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels panicky and urgent"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This sensation feels like very strong and agressive version of typing words on a phone keypad"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : " The sensation is like different strength of buzzes with regular interval that is hard to distinguish"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels like secrecy and very informative"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of morse code being used in films"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is sharp, with medium strength with perfect, regular intervals"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels soothing and relaxing like bein near to a loved ones. It has calming effect with a sense of belongingness."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a heartbeat or a visualization of a heartbeat on a hospital screen"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is short and quick with regular intervals"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation feels exciting and amusing"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "It feels like shooting a gun in a video game"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very irregular with no definite pattern"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels fuzzy"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very rhythmic with equal short buzzes"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation is machine and electric and gritty"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a situation in a game which i can't pinpoint"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/16\/2024 5:01:40 PM"
+	}
+}

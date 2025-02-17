@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The senestion feels like a heartbeat"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "The sensation invokes the feeling of anxiety"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the moments before the results are announced"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like slow continous vibrations"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "The sensation feels like slowed anxiety and confusion"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me when I was running across a field"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like tingling"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "The Sensation invokes a mix of happiness and anxiety"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when my brother was born"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a fast heartbeat"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "The sensation invoke mixed sadness and anxiety"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of griping the ball before the last throw"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like a heartbeat"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel like exhaustion"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds of a aftermath of a football match"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "Sensations feel like a heatbeat but with short rapid intervals"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel anxious and curious"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds me of just finishing a exam after doing no study"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like when your hand paralyze and you have a tingling"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel afraid and curious"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "Sensation reminded me of when my hand fracture was removed"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like slow drumrolls beating"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel happy and curious"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "Sensation felt like when you get a tingling feeling in your hands after not moving it for a long time"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel helpless and anxious"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "Sensation invokes a memory when I sat for entire hour without moving and my hand went numb with tingling sensations"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like extremely slow drumrolls based like heartbeat"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "Sensation invokes anxiety and distress"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels so neutral"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels like a buzz, its irritating"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds like a when my hands gets greasy and somethings starts falling from my hand"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels of thrill and adventure"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "Sensation makes me feel happy and achieving"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "Sensation invokes of when I climbed a high hill, and after reaching its peak"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like a active buzz"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me uncomfortable and sad"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "Sensation invokes of when I'm in a losing argument"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like a arousing heartbeat"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "Sensation invokes comfort and warmth, it feels so happy and pleasant"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "Sensation feels like when I used to see the girl I liked"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is like a passive yet wierd long buzz"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "Sensation is relaxing yet discomforting at the same time"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "Sensation invokes a bad memory"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "Sensation feels like nudging someone constantly in the form of buzzing"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "Sensation feels exciting yet weird, with a hint of happiness"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "Sensation reminds of when I have a vibrating mobile in my pocket"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 4:30:59 PM"
+	}
+}

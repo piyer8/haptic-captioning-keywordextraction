@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a buzz with two vibrations with a pause and a mild vibration again"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel a little irritation on my hands"
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "This reminded me of my mobile phone vibration while carrying in my hands"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a soft vibration at start and a pause followed by rough vibration"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel soothing initally but the vibration after pause was a bit uncomfortable"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a scooter which is smoothly running at a speed and suddenly when we accelerate it there is a sudden jerk to it"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very mild and there was a ticking sensation   "
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "This sesnsation was a less affective and did not feel any vibrations"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a ticking clock"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like continous vibration with a steady speed"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel relaxing"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a massage chair with soft contiuous vibrations"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is smooth with two droping vibrations in between "
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel weird"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a vehicle moving smoothly initally and then running over some stones "
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "Thi sensation at first has a smooth vibrations at start then a pause followed by harsh vibrations slowly reducing and again a pause followed by mild vibrations"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel soothing at first and later a rough irritable sensation"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a blender wherein the speed changes from medium to fast and then slow"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "THis sensation is like a beating sound with two beats then pause and two beats at first and then a continuous vibration with beats at the wnd"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel enjoyable"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "This reminded me of beat boxing or rap songs"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like a smooth  vibartion at the start and suddenly the vibration slows down"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel dissatisfied"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a car suddenly breaking down "
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a rough three beats and small pause with mild vibration"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like uncomfortable"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "This reminded me of touching the speakers while playing a music"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very uneven wherein there are two beats and a pause in between followed by the same vibrating beats"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel panicky"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a bike moving in traffic with unsteady vibrations"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a fast cotinuous dropping beats with fast vibrations"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel tickling in hands"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "This reminded me of the mobile phone alarm vibrations"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very mild or cannot be felt at start and then there is a pause followed by sudden rough strong vibrations"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel dicomfort"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a roller coaster which starts slowly initially and then takes up spead"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "This sensation had two soft beats with a pause followed by same two soft beats"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel calming and happy"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of old scooters which did not start easily and the vibrations while accelerating felt same"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very mild with small continuous vibrations and two beats in between"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel neutral"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a smoothly running cycle"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is like a smooth vibrations continuously and two harsh beats at the end"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel thrilling"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me a the rocks rolling down the hill or mountain"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like rolling beats with soft vibrations"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel weird and confused"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a vehicle moving with high speed "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/16\/2024 3:55:29 PM"
+	}
+}

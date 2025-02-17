@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a wind that gushes through the window."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel anxious and stressed"
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "it makes me think of the wind that blows when you leave the windows open in a car."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a heart beat"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "It makes me think im holding a heart or something that has life"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "yes, when our heart pumps fast it feels like this from inside"
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "It feels like we are dragging a thing with a string"
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "this makes me want to hold that tight"
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "yes it reminds me of pulling a thing with a string attached to it"
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "it is a count of three vibrations. the vibrations are rythamic"
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "feels relaxing like a music"
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "it reminds me of music"
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations are rythamic but feels like dribbling a basketball"
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "it makes me want to play"
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "it reminds me of dribbling a basket ball."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "it is a short but slow vibration in counts of 3"
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "it feels scary"
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "remind me of scary movies background music"
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations are lingering for some time. it feels like strumming a guitar"
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "this makes me feel happy because i like playing guitar"
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "it reminds me of some happy song that i play with guitar"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "it feels like an electronic song. feels like a rock music genere"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "it makes me want to dance"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "yes it reminds me of concerts"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "It feels like an alarm or a ringtone of mobile phone"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel refreshing like a morning "
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "it reminds me of an alarm that i had used in my teen ages."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "These are stronger vibrations compared to the others. It feels like a mobile phone ringing in my hands"
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "it makes me anxious because i feel like i wanna pick the phone up "
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "it reminds me of Mobile phone ringing in my hand"
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "These are long but gradually soft vibrations. "
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "As the vibration ends on a soft note it makes me feel relieved"
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "it reminds me of lifting weights. it feels stressfull at first but easier once done"
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "Feels like throttling a Motor bike"
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "This makes me happy and relaxed"
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "yes it reminds me of accelerating the bike and dropping it in a loop."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "it is a very mild vibration. it feels like kick starting a motor bike"
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "It makes me miss the motor bike"
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "it reminds me of kick starting my motor bike"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "the vibrations are strong with random stronger vibrations"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "it makes me want to dance"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "reminds me of a really energitic song."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations are strong and rythamic. almost like drum beats"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "this vibration makes me want to dance"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "it reminds me of drum beats in a concert night"
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a music . A peppy song that motivates you"
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "it makes me feel motivated and rush"
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "A song that i used to listen when i feel low"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/25\/2024 3:17:10 PM"
+	}
+}

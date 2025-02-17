@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "THERE IS A PROLONGED VIBRATION BEFORE PULSING INTO A SHORT ONE, AND ENDS ABRUPTLY. "
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "THE SIGNAL MAKES MEEL SLIGHTLY APPREHENSIVE."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "THE SIGNAL IS STEADY AND RHYTHMIC"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "THE SIGNAL FEELS A LITTLE ROUGH AND THERE IS A VERY GRATING SENSATION TO IT"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "IT FEELS GRITTY IN MY FINGERS"
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "FEELS SIMILAR TO THE SOUND OF A PRINTER OR A COPY MACHINE"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "THE VIBRATION IS STEADY AND VERY LIGHT. "
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "IT IS VERY QUIET AND SUBTLE"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "ALMOST REMINDS ME OF A STEADY DOOR KNOCK"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "THE VIBRATION IS CONTINUOUS AND FEELS LIKE SOMETHING IS ROLLING IN MY HAND"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL DROWSY BECAUSE OF ITS RHYTHM"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "REMINDS ME OF AN ELECTRIC GRINDER OR A WASHING MACHINE"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "IT IS A PULSING SENSATION WITH THREE BEATS IN IT"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "MAKES ME FEEL CALM AND DROWSY"
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "IT REMINDS ME OF SOME FORM OF PERCUSSION INSTRUMENT"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "IT IS A LONG SINGULAR VIBRATION AND IT IS VERY PROLONGED"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "IT FEELS A LITTLE OMINOUS AND ON THE EDGE"
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "REMINDS ME OF A DEATH BELL THAT WAS RUNG WHEN SOMEONE DIED IN THE PAST"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "SHORT VIBRATIONS THAT PULSE CONTINUOUSLY WITHOUT STICKING TO ANY RHYTHM"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES MY FINGERS FEEL ITCHY"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "REMINDS ME OF A DRILL MACHINE"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "IT IS A SINGULAR LONG VIBRATION THAT AFFECTS THE ENTIRE PALM AND NOT JUST THE FINGERS."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "IT HAS A VERY GRITTY AND 'RUMBLING' EFFECT"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "THIS IS WHAT I IMAGINED A GIANT'S (MAYBE GODZILLA'S) FOOTSTEPS WOULD FEEL LIKE FROM A DISTANCE"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "IT STARTS OFF STRONG BEFORE BECOMING FAINT AND THEN COMES BACK THE INITIAL INTENSITY"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL AS THOUGH IM PUMPING SOMETHING IN MY HAND"
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "IT REMINDS ME OF A LAUNDRY MACHINE"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "IT HAS A VERY GRITTY FEEL TO IT AND IS ROUGH."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL AS THOUGH THERE I AM GEARING UP FOR SOMETHING"
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "REMINDS ME OF A MOTORCYCLE"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "IT IS LIKE A CONTINUOUS PULSE, ALMOST HAS A BEEPING NATURE  TO IT."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "MAKES ME FEEL ALARMED AND IT DEMANDS MY ATTENTION FOR SOMETHING, AND I CAN'T IGNORE IT."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "REMINDS ME OF AN ALARM BELL"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "THERE IS A FAINT SENSATION, BEFORE IT PAUSES, FOLLOWED BY A FULLER VIBRATION"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL ANNOYED"
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "IT REMINDS ME OF A BUILDING FALLING DOWN DURING AN EARTHQUAKE"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "IT IS A VERY SMOOTH FEELING IN THE HAND AND PULSES TWICE"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL LIKE ACTIVE"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "IT REMINDS ME OF OXYGEN BUBBLES WHEN YOU GO UNDERWATER"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "IT FEELS VERY INTENSE AND CONTINUOUS"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "IT FEELS VERY UNCOMFORTABLE AND WEIRD"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "THIS REMINDS ME OF A HELICOPTER"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "IT IS A CONTINUOUS SIGNAL WITH A GRATING SENSATION PERIODICALLY"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL VERY NERVOUS AND ANXIOUS"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "THIS FEELS SIMILAR TO THE HANDLE OF A LAWNMOWER"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "THIS IS A SLOW CONTINUOUS ROLLING SENSATION IN THE HAND"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "IT MAKES ME FEEL VERY DROWSY AND TIRED"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "IT REMINDS ME OF A STEADY TRAIN ON A TRACK"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/16\/2024 6:16:15 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as a discrete, somewhat fast paced, signal. I would say it not a super strong signal, actually kind of faint. Initial the signal is quite harsh, but leaves in a decaying fashion over about a third of second. "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel kind of emotions of whimsy, kind of calming. "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "I would say this reminds of like trying to hold on to a butterfly. If it really - in a persistent way - wanted to leave my hands. "
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensations by telling a person it was a petering sensation. Which initially would come on kind of strong, but would kind roll off and restart. I would describe this as an inconsistent sensation as well. "
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel kind of uneasy, because the sensation is not smooth.  "
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "If I had to put this into words. I would say it comes on a little strong and then it feels like a frog croaking. If I were to put an audible sound, like an ontamatapiea (sp?), I would say is feels like, \"crrrr-crrr-crrroak\". Kind over and over again. With short maybe quarter second breaks in between."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this feeling as a consistent rolling hum. It's not really increasing or decreasing in intensity. You almost can't even feel it if you don't concentrate or are doing something else. "
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "Although this sensations is very light it makes me feel uneasy. It feels almost like something is about to scare me. "
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "You know how people  describe things like, \"this is a quiet as a popcorn fart\". Well this is that feeling corralled into vibration and put on repeat. "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as unsteady building of signal. Like it starts off wobbly, build for while, then peters out more rapidly than it built up. I would say it takes maybe a second, second and a half, then repeats. "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel jubilant. I feel as though I might be celebrating something. Possibly, won a game of MarioKart or something similar. "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "If I had to put an action to it, I would say this reminds of like the feedback you get from a riding lawnmower when maybe like the spark plug is bad. Like it turnsover, but it doesn't quite start up.  "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a low rumble that goes on for about 2\/3 seconds, then repeats. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "The sensation or emotion I feel from this feedback is a kind of discontent. It makes me feel as though I'm struggling through something that is tiresome and monotonous. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "The immediate mental image this reminds me of is Tom or Jerry (whichever one is the mouse) kind of pushing a heavy, for mouse, oval-ish object up a cobblestone path. It is a very faint feeliing very light, but it comes in and out over few seconds. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a persistent vibration. It builds in an every so slight way over 2\/3 second. Then there is about a half-second pause where you still feel faint vibrations. Then it repeats. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel active. The emotion I would attach to is happy kind of fulfilled in the moment contentness. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the reverberation of like a snare drum. There is a feeling that builds and even when the drummer stops the sound continues until whatever inside that snare drum stops shaking. However, I would decribe this a an attenuated snare drum, because when the vibration slows it is really quite muted. "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this feel as a vibration that has about 1.5 second cycle. It is a quick pretty intense vibration followed by a pause follow by a faint vibration. All roughly a second in duration. Then there is a break and it repeats. "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel sad. The emotion that I attach to this sensation is helplessness or disheartened. "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "This reminds me like hold a dying insect."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "There is a sensations, but its a rather random patern it comes in weak and has a few spots of weaker viabration immediately followed by a little jolt. "
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes feel defeated. "
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "This sensation remind me of when the XBox 360 or Nintendo Wii controllers would get a little weak. Like there is something there, but it's not full functional. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is consistent, building in intensity, but moderate vibration. The intensity is building in stages, but they are hard to discern. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes feel attached. The emotion I would attached to is distraught or distressed. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "This reminds of similarly feeling as in tug-of-war when the rope is sliding beneath your hands. "
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very weak. I would say it's discrete you really have to concentrate to feel it. The first sensation, which is barely noticable, occurs for a fraction of second then pauses and repeats. "
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this vibration as a repeated vibration. However, it hard to describe other than stuttering and kind of random. "
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes feel kind of choked up. An emotion that I could attached to would be dejected. "
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a weak cough. "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as consistent and wave-like. Ebbing and flowing about every .5-1 second. "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel a little surreal. The emotion I would attach to it are kind of like fuzzy or foggy. "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This reminds of some like shooting a taser or going through a portal in video game. "
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as a discrete signal with an initial burst of vibration, followed by a pause, followed by a low vibration. "
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel active. The emotion I would attach to it are contentness or sadness depending on duration. "
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of shovelling. I can feel the shovel hit the loose-ish dirt then go in. "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a discrete short and low vibrations that might take 1\/10th of second. They are very quick, but not intense and at random intervals. "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "This sensation make feel peaceful. The emotion that I attach to is pretty relaxed. "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "This reminds of the water dripping on my open palm. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation a discrete and random. The intensity is really inconsistent. It almost feels like scraping a rough surface with a finger nail. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "This senstation makes me feel uneasy. I feel something similar to scared maybe a little concerned. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "This reminds me of scraping a rough surface with a fingernail. "
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a rumble. That has  3 second pause with a 2 second rumble. "
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "This feel like the vibrations coming off of the stick of pinwheel, but you are short of breath. So the duration isn't long and it takes a while before it repeats. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/12\/2024 10:48:25 AM"
+	}
+}

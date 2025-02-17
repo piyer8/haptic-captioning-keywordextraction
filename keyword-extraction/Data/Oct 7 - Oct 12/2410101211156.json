@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 47,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very mild and steady. The 2 beats were repeating constantly and it felt comfortable."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel calm and relaxed."
+			},{
+				"signal_index" : 47,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a normal person's heartbeat."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very harsh and also there was no delay or any gap in between the vibrations which was a bit annoying. "
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel uncomfortable. The continuous hard vibrations made it unpleasant."
+			},{
+				"signal_index" : 61,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of an alarm clock."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was a bit bumpy with sets of 3-4 beats vibrating with a delay. It was more of a neutral sensation."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel a bit discomfort but not that much to be unpleasant."
+			},{
+				"signal_index" : 67,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a cell phone vibrating whenever one gets a call."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_sensory",
+				"data" : "The intensity of the vibration increased with time and restarted after a delay. The vibration was good."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt energetic and a bit aggressive."
+			},{
+				"signal_index" : 68,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a motorbike engine starting."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was thumpy and intense. The vibrations were steady and the intensity went high to low."
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel anxious and alarming. "
+			},{
+				"signal_index" : 69,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of beating a big musical drum."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations were from low to high and was more like submissive."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel discomfort."
+			},{
+				"signal_index" : 70,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a constant buzzing which was soothing."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel like calm and relaxing."
+			},{
+				"signal_index" : 71,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded of a mobile's virtual keyboard haptics."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very aggresive and very intense. The energy of the vibration was very high."
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel panicky"
+			},{
+				"signal_index" : 72,
+				"category" : "free_text_association",
+				"data" : "The vibrations reminded me of sirens."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was actively buzzing and enjoyable. The vibrations were constant and good."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_emotional",
+				"data" : "The sensation felt pleasurable."
+			},{
+				"signal_index" : 73,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of a massage gun"
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was coarse and weird. The beats were uneven and lumpy."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel unpleasant and irritating."
+			},{
+				"signal_index" : 74,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations were pleasant and were there for a longer time."
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel satisfied and calm"
+			},{
+				"signal_index" : 75,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of holding a steering wheel"
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_sensory",
+				"data" : "The beats were constant and intensity was not that harsh."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel comforted and soothing."
+			},{
+				"signal_index" : 76,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was static with little to no delays. The intensity was high making it alarming"
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel panicky and anxious. The continous high vibrations made it uncomfortable."
+			},{
+				"signal_index" : 77,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of the vibration from the washing machine lid."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations were steady and sharp. It felt very fast."
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt unpleasant"
+			},{
+				"signal_index" : 78,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was energetic with mild thumps in between. The intensity of the vibrations was appropriate"
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel pleasurable and enjoyable."
+			},{
+				"signal_index" : 79,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a massage chair"
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_sensory",
+				"data" : "The vibrations was steady and mild. The vibrations were smooth and quiet."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel weird but thrilling  as well."
+			},{
+				"signal_index" : 80,
+				"category" : "free_text_association",
+				"data" : "NA"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/10\/2024 12:11:02 PM"
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very light vibration."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm and comforting."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "This reminds me of sea breeze."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like some vibrations are getting obstructed. it seems like a discontinuous pattern."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "This reminds me of radio frequency signals, which we set manually."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is continuous with a light buzz. It wasn't steady though."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "This sensation was soothing and made me feel reassuring."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a printer, printing multiple papers."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very faint vibration."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel very calm."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like water droplets falling continuously. There was a small gap between each vibration."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel pleasant and enjoyable."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds of waterdroplets. It reminds me of continous notifications I receive when my phone is in vibration mode."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was periodic vibration, whichh started with peak intensity and gradually decreased. "
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel weird."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "This reminds me of something like deflating balloon."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was steady and rythemic."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like a tune. It ws pleassant and enjoyable."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "This reminds of playing guitar."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like contiinous buzzes, which was like the first two buzzes were less intense than the next two buzzes. It was a periodic vibration."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel anxious and thrilling. "
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the thrillingg music that is played in suspense movies at the climax scenes."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was unsteady vibrations. It didn't have a petttern."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel unpleasant and annoying."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was like mixture of vibrartions with no particular pattern. The intensity of the vibration was medium."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like an irregular buzz. "
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like a combination of three vibrations. First one was intense and prolonged when compared to the other two. The second vibration was less intense than the first one, but ore than the third one. It was periodic."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel annoying."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the vibration of a washing machine."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continous vibration, with medium intensity. The intensity of the vibration did not vary. It was steady."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel neutral."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "This reminded me of my phone ringing continously when kept in vibration mode."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was barely felt. It wasn't steady. "
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel funny and curious. "
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "The sensation started with a medium level intensity and increased to a higher level and then reduced. It was periodic. "
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel energetic and excited."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "This reminds of the video games which I played and the sensation I got while playing games which included climbing the hills up and down."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The ssensation was intense. It was not steady, but it was continous."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel alarming, so I felt it a it annoying ."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the phone alarms."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was like two small beats and then a large beat vibration. It was periodic.."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like energetic and disciplined."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the  music band that's played during start of games."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/23\/2024 4:59:48 PM"
+	}
+}

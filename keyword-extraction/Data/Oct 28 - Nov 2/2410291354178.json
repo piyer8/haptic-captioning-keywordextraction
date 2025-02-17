@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is frictional. It feels like the noise produced when something is struck against a metal."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel irritating. I can attach unpleasantness to it."
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the kitchen sink grinder."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like touching a rotating wheel that is suddenly accelerating with a certain frequency."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel steady. I can attach relaxation and fun to it."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "It reminds me of accelerating a bike by maintaining a regular speed with some sudden surges frequently."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "The sensation just feels like a buzz, like some vibrating or rotating object."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "This reminds of bees that buzz around us."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is rhythmical. It is a changing frequency in the oscillaitons or vibrations creating a rhythmic manner."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "I feel steady and attentive."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the army parade band."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a random beat of vibrations."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel active and reassuring."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "It reminds me of someone patting your back when you're sad."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a fade-out effect of a vibration pulse.\t"
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me active and attentive"
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the flashing search lights, or emergency lights that are used in situation where a mass destruction happens."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is a rhythmic beat of one large vibration followed by two or three small vibrations.\t"
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "I makes me feel thrilling and calming."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "This reminds me of alarm ringtones or reminder notifications."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a constant not so steady vibration"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel neutral and calming."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "This reminds me of trimmers and massage machines."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a beat of vibration starting with two sharp ones, followed by a large calm one. This pattern is repeated again."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel panicky, energetic, and intense"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a quirky vibration, with sharp and rough tones"
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel uncomfortable and uncertain"
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the vibrations we can sense when travelling in trains."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a long strong vibration followed by two sharp ones."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel attnetive, calm, and alarming."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "This felt like a morse code that people use to communicate information secretly."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a long vibration with a few jump cuts in between. Like it is a steady vibration but there are some occasional cuts in between, after the cut the vibration starts at the same intense doesn't fade out or fade in."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel comfortable and exciting."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "I've seen something like this in movies where inaction sequences there are some jump cuts in between the fights where the screen goes blank for a second."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a low intense vibration with a periodic surges."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me pleasant, good, and quiet."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "This reminds me of lo-fi songs"
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is a sporadic sharp vibration. It is very alarming."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel like I was in some emergency situation."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a rhythm of strong, intense vibrations which also has a fade-out effect after every four beats.\t"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel aggressive and exciting"
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "This reminds me of high-adrenalin situations where things have to be done quickly."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a steady rhythmic beat of medium intensity vibrations"
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel casual and sensual."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of my phone ringing in vibration mode."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/29\/2024 1:54:24 PM"
+	}
+}

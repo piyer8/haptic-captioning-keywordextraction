@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as fast rhythmic sound.\t"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energized. "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "This reminds of of travelling in a train."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this an inconsistent vibration.\t\t"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel discomforting."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "This reminds me of using a drill machine."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as smooth consistent vibration.\t\t"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel calm."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "This reminds me of waves at a secluded beach."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as uneven vibration with long pause in between."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel irritating."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "This reminds me of accelration on a bike."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as consistent but with short pause."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "The sensation make me feel electric."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "This reminds me of ceiling fan."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as resistive.\t"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel rusty."
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "This reminds me of sharpner."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as two sounds alternating between high and low."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel good."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "This reminds me of heartbeat."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as random beats."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel wierd."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "This reminds me of children playing."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as drill."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel annoying."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a rusty machine."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as low consistent beats.\t"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "This sensation make me feel comforted."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "This reminds me of sound of a heartbeat."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as upbeat."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This sensation make me feel thrilling."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a horror movie background."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as linearly increasing vibrations."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel active."
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This reminds me of edm before the beat drop."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as a pattern of alternating two sounds."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel consistent."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "This reminds me of grinder."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as alternating between one and two vibrations."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel enjoyable."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "This reminds me of raindrops."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as rubbery."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel bad."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "This reminds me of damp shoes noise."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as lumpy."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel uncomfortable."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "This reminds me of snoring."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/7\/2024 3:15:34 PM"
+	}
+}

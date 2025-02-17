@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "The signal give me the sensation for discterete."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel funny."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "It makes me to feel like swimming in the pool."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "The signal give me the sensation for feeling interval fast."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel alarmed."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "I feel like to sleep with anxiety."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the senation for intense moving."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "I feel alittle bit nervious."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "It makes me to think about have a big test in this week."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "The signal give me the sensation for moving not very fast."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "There is a emotion for me to become urgent when I feel the signal."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "I feel like to talk to my roomate because the signal makes me fell a little bit umcomfortable."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for moving fast and intense."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "I feel somehow anxious."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "It makes me to think about to talk to my boss."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for moving not really smothly."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "I feel a little bit weird and discomfort."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to eat a boring lunch."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "The signal a sensation for moving not so fast but not really slow."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "It makes me yo feel uncertain adn undecided."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to watch a sporatic movie."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me a sensation for neat and tight."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel calm and quiet."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to have a regular training in the gym."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for intensing moving."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel arousing and noising."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to study in a loud room."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "The signal give me the sensation for moving slowing."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel like steady and calm."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to walk quietly on my way home."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for moving not really smoothly."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like a little bit panic and anxious."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to not make my homework before the due."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "The signals give me the sensation for moving somewhat regularly."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel I need to be attention."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to get up in the moring when my clock is ringring."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "The signals gives me the sensation for a little bit intense moving."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel  nervious and hesitant."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated that I am calling to someone and wait for his\/her's answer."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "The signals gives me the sensation for moving slightly intense."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like I  am somewhat tired."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated that I am sleep not really well last nigh."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for moving slow and slightly."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel exhusted and burn out."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated to run for 10 km mathroon."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "The signal gives me the sensation for moving slightly neat and fast."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "It makes me to feel funny and energetic."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "It makes me to associated that I have a pleasureable chat with my friend."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/13\/2024 11:21:44 AM"
+	}
+}

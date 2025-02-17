@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt like a heartbeat of some animal."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm."
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continuous and had few break-points."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel alarmed and alerted. Some emotions that I can attach to it are that of panic."
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of the fire alarm."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was pretty continuous."
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel nothing apart from reassurance in a way. "
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the operation of an autoclave machine, upon its on set."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "The sensation started out slow then picked up momentum and repeated the same pattern twice."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm first and excited in a way later when it amplified."
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of my old phone's ringtone."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had a lot of breaks in it."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel steady and weird. The sensation was somewhat frictional."
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "Yes, it reminds me of soldiers marching on a national holiday."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was weirdly a blend of more than 1 sensation oscillating and making a pattern."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel excited."
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of drums that play during a festival. "
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continuous throughout."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm and reassured."
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of my water bike riding experience this summer."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "This sensation was a combination of 2 sensations oscillating but had different amplitudes and frequencies."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel tensed and impending of something serious or important is about to happen."
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of nerves pulsating in a human body."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was a mixture of atleast 3 sensations together."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel excited at first and calm after."
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "N\/A"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had a lot of breaks although the breaks were continuous."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel neutral."
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of my dishwasher."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had varying intensities in a single wave."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel steady and composed."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a washing machine spinning."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "The sensation  was continuous and transitioned quickly and smoothly when theree was a break between the two."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel quiet."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of the tredmill in the walking mode."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was very discontinuous although it followed an interesting pattern."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "The sensation  made me feel pleasant and active."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of the starting part of the song : 'Believer' by imagine dragons."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was stable and excitatory at the saame time and had a lot of frequency variations."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel neutral."
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "The senation reminded me of a mixer when it is in the non-pulse mode."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was discontinuous with momentary breaking."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "The emotions that I was able to attach were that of going away from something. It made me feel lonely and alienated."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a train in transit, it reminded me of my recent train journey."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "The sensation had a lot of variations although it resonated stability."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel fulfilled."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of filling a jar with candies."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/1\/2024 5:21:13 PM"
+	}
+}

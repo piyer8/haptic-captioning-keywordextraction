@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 89,
+				"category" : "free_text_sensory",
+				"data" : "The sensastion feels like a low puslating object"
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm"
+			},{
+				"signal_index" : 89,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a sci-fi film."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like an irregular pulse which is slightly intense."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel unpleasant."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a horror film."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like low irregular patterns."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel uncomfortable."
+			},{
+				"signal_index" : 99,
+				"category" : "free_text_association",
+				"data" : "The sensation can be associated with a low vibratory machine."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has a rythym with low intensity."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel anxious."
+			},{
+				"signal_index" : 100,
+				"category" : "free_text_association",
+				"data" : "The sensation can be associated to a heartbeat,"
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_sensory",
+				"data" : "The sensation felt intense and irregular."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel excited."
+			},{
+				"signal_index" : 101,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a drum pattern."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was low intensity and regular."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_emotional",
+				"data" : "The sensation mad me feel calm."
+			},{
+				"signal_index" : 102,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a tennis ball dropping."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is regular and intense"
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel excited."
+			},{
+				"signal_index" : 103,
+				"category" : "free_text_association",
+				"data" : "The sensation reminded me of a drum pattern."
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a mix of low and intense haptics"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel anxious"
+			},{
+				"signal_index" : 104,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the phone haptics during a call."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was intense with a repeating pattern"
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel excited."
+			},{
+				"signal_index" : 105,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a song with bass."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was regular with a mix of low and intense haptics."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel excited."
+			},{
+				"signal_index" : 106,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a bass guitar."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_sensory",
+				"data" : "The sesnsation was very intense with intervals."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel unpleasant."
+			},{
+				"signal_index" : 107,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a sci - fi film background score."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was moderately intense and regular."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm."
+			},{
+				"signal_index" : 108,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of phone haptics."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was irregular with very low intensity."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel calm."
+			},{
+				"signal_index" : 109,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a gear in a toy."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was irregular with a mix of low and intense haptics."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel anxious."
+			},{
+				"signal_index" : 110,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a phone ringtone."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was regular and very intense."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_emotional",
+				"data" : "The sensation made me feel unpleasant."
+			},{
+				"signal_index" : 111,
+				"category" : "free_text_association",
+				"data" : "The sensation remin me of the stomping sound."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was regular and low intensity."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel calm."
+			},{
+				"signal_index" : 112,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a gear rotating."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/29\/2024 12:48:15 PM"
+	}
+}

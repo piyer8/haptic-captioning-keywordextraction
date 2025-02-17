@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "If I were to describe this sensation to someone else, I would say that it is vibrating kind of sensation. It is like my iPhone getting a call from someone and the iPhone starts to vibrate."
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel more attentive, and sometimes annoying. "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "Yes, this does remind me of the alaram that rings everyday on my iPhone when I wake up in the morning."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as a calm wave hitting your fingers and also a natural vibration at the same time. "
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel calm and composed."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the focus music with different hz that are available on youtube. It also reminds me of having control of the steering wheel while the car is not moving."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "This is sensation is feeling like air hitting my fingers. I would say something like when you're feeling the wind on your hand. "
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel more pleasant and comfortable. "
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "This reminds me of me keeping my hand out of the car window, and feeling the wind on my hand. "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this as a combination of my hand feeling the wind and also the door screeching on the floor. "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel weird and calm."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the study music that I hear to, like the vibrations I feel while listening to those different level frequency of sound. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as something like using the gun in a videogame to shoot on the target. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel more attentive to my surrondings. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "This is reminds me of the vibration I feel when someone is face timing me on my Mac. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as if someone is holding the steering wheel of a car when it is not moving. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel a bit annoyed, as I get this feeling becuase of traffic. "
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the traffic that I get stuck in sometimes, and I have to hold the steering wheel for a while during that time. "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone as if I am shooting someone using my phone in a video game with frequent gaps in between. "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "It me feel happy."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time I played fortnite with my friends and I had to shoot the target using the riffle. "
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone as if a strong wave is hitting your fingers, or you are keeping your finger in a fast moving body of water."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel calm and pleasant."
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "It remind sme of the time when I kept my hand in the swimming pool, and I was trying to swim in the opposite direction of the current. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as shooting someone in a video game, the continous vibrations give the feeling of shooting someone multiple times continously. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel aggressive sometimes. "
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the shootings in video games. "
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as you feeling the vibration of the sound when you are walking across multiple theatre screens. "
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel happy."
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "It reminds me about the time when I was walking to my screen in the theatre and I could feel this sensation coming from another near by screen. "
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this feeling as imagine if you are keeping your hands in a speaker which is submerged under water and playing sounds. "
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel curious."
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "It remind sme of the time when I put my speaker in the swimming pool and it was playing some sounds and I kept my hand on it when it was submerged. "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone as if their phone is placed on the table, and it is ringing alot and that person is not answering the phone, the vibration felt in the table and the sound heard.  "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel less attentive, and more distracted. "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the time when I kept my iPhone on siltent, and it was ringing alot and was kept on a hard surface. "
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation to someone as keeping a speaker under water and keeping my hand on it when it was submerged. "
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel happy and pleasant."
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time when I kept my watch underwater and the alarm started to ring causing the watch to vibrate alot "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this situation to someone as if the hand is kept underwate rand the bubbles are straight up coming to the hand under the wate rand the pressure or the feeling felt at that time."
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel joyful and curious. "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "This reminds me of the time when I kept my hands under the water directly on top of a pump underwater and the bubbles coming out of it. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "This sensation could eb described as if I am keep ing the speaker underwater and the sounds is playing from it even in then and my hand is on top of the speaker. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "It make sme feel bored. "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "I remember doing this when I was in the swiming pool and I had the speaker underwater and the songs wer eplaying from it and I had my hand on top of it. "
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "I would describe this sensation as me shooting someone using my PS4 controller in a game."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "This makes me feel happy."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time I played Call of Duty on PS4 controller. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/6\/2024 6:28:49 PM"
+	}
+}

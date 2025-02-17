@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "This signal has soft consistent vibrations "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel pleasant and is enjoyable. "
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a massager"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a contibuous vibration which repeats after a longer duration."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic like something is starting"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of how it feels when a car starts"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is continuous with no breaks and very mild \t"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of water bubbles that generate when a tank is filling."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has a series of small quick vibrations with light increase in the vibration at some parts in an erratic pattern"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel distant"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me starting a bike where its a gradual increase in the engine whirr"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a continuous dull vibration"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm and relaxed"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a massager"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a combination of a sharp and dull vibration which is not too strong"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel confused and anxious"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "It reminds me of water bubbles"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has a big vibration followed by a stable dull vibration and this pattern loops "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel alert but not sudden"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of an alarm clock vibration"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "This sensation starts with a slightly bigger vibration and dulls to the lowest one which loops"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel confident"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of accelating in pulses"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a long continuous vibration with quickly alternating big and small vibrations which are not sharp"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energentic"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a heartbeat via a stethescope"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a set of discreet vibrations in a pattern which are dull"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel curious"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of characters moving and jumping on video games"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a scratchy vibration which starts off less and increases in duration"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel impatient"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "This reminds me of scratching a chalkboard with chalk"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels like long pulses of short quick vibration"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel annoyed "
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of using a blender and loud noises in the morning"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "This sensation has 3 discrete vibrations followed by a smoother vibration\t\t"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel strong and focused"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "This reminds me of vibration we feel when you keep your hand on a speaker "
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a small dull vibration in a pattern with long intervals"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "This emotion makes me feel bored"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the sound made during laser removal or making a tattoo"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a irregular small continuous vibration"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel calm and little frustrating"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of the whir of the fan in a PC when you touch the side of it"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is a long and continuous one with dull quick vibrations\t"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel energetic\t"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of phone vibrations when a phone call comes"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/12\/2024 9:14:46 AM"
+	}
+}

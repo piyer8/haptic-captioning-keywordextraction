@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 113,
+				"category" : "free_text_sensory",
+				"data" : "sensation is buzz\t\t"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_emotional",
+				"data" : "sensation makes me feel greasy\t"
+			},{
+				"signal_index" : 113,
+				"category" : "free_text_association",
+				"data" : "It reminds me of door bell ring"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_sensory",
+				"data" : "sensation is like alarm\t"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_emotional",
+				"data" : "sensation makes me feel like i am in a moderate panic state"
+			},{
+				"signal_index" : 114,
+				"category" : "free_text_association",
+				"data" : "It reminds me of phone vibration to get attentive"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_sensory",
+				"data" : "Sensation is in a soothing way to give a relaxed feeling \t"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_emotional",
+				"data" : "It kind of makes me relax like a head massage procedure"
+			},{
+				"signal_index" : 115,
+				"category" : "free_text_association",
+				"data" : "It reminds me of gettings head massages"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a factory siren "
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_emotional",
+				"data" : "It was a siren sound that gives a sensation of something is going to start\t"
+			},{
+				"signal_index" : 116,
+				"category" : "free_text_association",
+				"data" : "It reminds of the factory siren"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_sensory",
+				"data" : "It was a small buzz or nudge kind of feeling\t"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_emotional",
+				"data" : "This kind feels like a small nudge"
+			},{
+				"signal_index" : 117,
+				"category" : "free_text_association",
+				"data" : "It reminds of someone giving a nudge"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_sensory",
+				"data" : "This feels like a random concert noise in low magnitude"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_emotional",
+				"data" : "When you are in surroundings of concert. the concert vibrations looks like this"
+			},{
+				"signal_index" : 118,
+				"category" : "free_text_association",
+				"data" : "When i am around concerts i felt like this"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_sensory",
+				"data" : "This was kind of ECG machine sounding"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_emotional",
+				"data" : "This kind of make me feel a machine is working on me to do some diagonosis"
+			},{
+				"signal_index" : 119,
+				"category" : "free_text_association",
+				"data" : "When i was examined for medical checkup I felt this kind of feeling"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_sensory",
+				"data" : "Bass of whoopher sound"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_emotional",
+				"data" : "Thumping energy feeling"
+			},{
+				"signal_index" : 120,
+				"category" : "free_text_association",
+				"data" : "Listening to music from speakers in a close area"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_sensory",
+				"data" : "Old car trying to start"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_emotional",
+				"data" : "Something is not working and i am trying hard to push it to limits"
+			},{
+				"signal_index" : 121,
+				"category" : "free_text_association",
+				"data" : "When starting an old car\/bike "
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_sensory",
+				"data" : "a periodic drum beat"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_emotional",
+				"data" : "Getting a beat of energy"
+			},{
+				"signal_index" : 122,
+				"category" : "free_text_association",
+				"data" : "When listening to a start of song giving a intro kind of feeling."
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_sensory",
+				"data" : "scratcging a chalk piece on a black board\t"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_emotional",
+				"data" : "This is kind of annoying feeling"
+			},{
+				"signal_index" : 123,
+				"category" : "free_text_association",
+				"data" : "When someone tries to scratch differnet materials on each other this kind of vibrations will be felt."
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_sensory",
+				"data" : "something more like a squeeky noise"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_emotional",
+				"data" : "when a non functional door makes a squeeky noise when it was opened"
+			},{
+				"signal_index" : 124,
+				"category" : "free_text_association",
+				"data" : "When i open an old door which is locked for months then this squeeky noise was felt"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_sensory",
+				"data" : "Beat of violin hitting the high musical notes and ending with a sharp note."
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_emotional",
+				"data" : "Giving the information of high incoming pitches followed by a sharp ending note"
+			},{
+				"signal_index" : 125,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a song where the information is given with an ending. "
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_sensory",
+				"data" : "The loud songs of the drum being played at an orchaestra"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_emotional",
+				"data" : "this sensation makes me feel it was trying to pass a statement or the commanding attitude"
+			},{
+				"signal_index" : 126,
+				"category" : "free_text_association",
+				"data" : "When an orchaestra is played and it tries to make a statement giving the authority or the importance of the situation."
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is like constant full flow river flowing, "
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_emotional",
+				"data" : "Gives a sensation of some constant flow of energy is hitting us"
+			},{
+				"signal_index" : 127,
+				"category" : "free_text_association",
+				"data" : "When sitting by a side of river hearing to the flow of water, this reminds me of the same."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is like a full throttle of kick followed by the thumping sound of the bike starting"
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_emotional",
+				"data" : "sensation makes me feel like getting a high adrenaline feeling by kicking the inner energy."
+			},{
+				"signal_index" : 128,
+				"category" : "free_text_association",
+				"data" : "this reminds me of a time when starting a new bike with full range motion"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/6\/2024 3:48:43 PM"
+	}
+}

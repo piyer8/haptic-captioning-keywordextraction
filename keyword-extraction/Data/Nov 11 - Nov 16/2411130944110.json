@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "I describe the sensation as alarming or alerting. The signal is like three consecutive taps with a pause and repeats again. "
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "I feel like something needs to take care or something is urgent. "
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "yeah, this signal reminds me of my alarm vibration."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "I describe the sensation or signal as pulsating and the signal is continuous with two beats and a pasue. "
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "I felt like I am energized. This is signal activates my brain or elevates my mood."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "This signal reminds me of two situations, those are biking and watering plants."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "I describe the signal as continuous beats."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "N.A."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "N.A."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "This signal is a periodic continuous signal, high frequency to low frequency vibration."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "This signal excites me. I feel like I am focused or heightend awareness."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "This signal reminds me of watching action movie scene or playing a fast pace video game."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "This is a periodic signal with three beats. The three beats are equal in intensity and duration."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "I feel like I am missing something or longing."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "This signal reminds me of a movie scene music, where protagonist is trying to overcome alchol adiction and he finds a alchohol in his house."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as continuous signal with a sudden discontinuity. "
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "I felt like I am confused."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as one intense vibration follow by sudden reduction in intensity."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "I felt like I am anticipating for something."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "This reminds me of shifting to higher gear in a manual sports car."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "This signal is two continuous beats with a third vibration of reducing intensity."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be decribed as a signal which decrease intensity."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "I feel like I am anticipating for something. "
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : " N.A"
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as a signal with waning intensity or becoming less instense untill it stops."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "I feel like defeated."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "This signal reminds me of missing a basketball shot and the basket keep vibrating and stops."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as two small beats followed by a sudden burst of vibration or intensity."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "I felt like I am alert."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "This is reminds me of something we say sixth sense, we sense that something is not right and keep observing and we find something or we obseve something all of a sudden. more like spidey sense."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be decribed as continuous and ends with mild intense vibration."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "I feel like joyful."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "This reminds me of a movie scene in which a couple starts dating."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be descirbed as three intense beats and pause"
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "i felt like i am agitated."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "This reminds me of shooting someone in a RPG games like PUBG. "
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as a continuous signal with low intensity but noticeable."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "I felt like I am confused."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "This signal reminds me like when a microwave is done heating and it will alert us or a rice cooker makes whistle. We like notice the signal, however won't do anything or can't do anything."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as continous low intensity signal."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "This signal can be described as a random signal."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/13\/2024 9:44:17 AM"
+	}
+}

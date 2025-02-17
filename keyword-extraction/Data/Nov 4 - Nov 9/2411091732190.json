@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "i would describe the sensation as continuous beats with fast pace (to be technical with less time period)"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "sensation make me feel alerted,alarmed,panicky"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "It reminds me of my alarm,also my panicking\/anxious moments."
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "The sensation was continuous with medium pace"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "sensation makes me feel cheerful"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "It reminds of being active  and cheerful"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "ithe sensation describes a continuous weak paced signal"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "sensation i feel is alive\/mild tinkering"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "it reminds me when i was afar from people arguing "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is continous unorgnised \/ variable "
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "this sensation make me feel hesitant"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "it reminds me of situations when i will be hesistant"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "the sensation is continuous slow paced"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "sensation make me feel content,calm"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "its reminds me after post mediation time"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "it is discontinuous sensation with medium pace which gradually reduces"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel energized"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "it reminds me of electric sound "
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "it is discontinuous beat with low jass"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel alive,suprised"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "it remind me of drums and low beat jass"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "it continuous sensation with sudden rise (you can also consider it jump continuous)"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "it makes me feel reassuring"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "it reminds of plane instruments when sudden struck by drum."
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "it is continuous with different rythms"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "this sensation make me feel energized,encouraged"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "it reminds me of guitar music"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "it is continuous sensationmay be"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel guarded"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "it reminds of heartbeat of other person hearing from afar"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "it is highly fluctuating sensation"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel reluctant"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "NA"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "it is a continuous smooth increasing sensation"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel encouraged"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "it reminds me of phone vibration"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "it is disccontinuous beat"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel perplexed"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "it reminds of controller feed back of sudden health reduction\/damage done on character but with even more strong start"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "it is discontinous uniform beat"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "it makes me feel confused,skeptical"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "it reminds me of foot steps "
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "it continous variable weak paced beat"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "it make me feel neutral"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "it low paced make remeber my confused  \/no opinion state"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "it is discontinuous beat with huge reduction "
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "NA"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/9\/2024 5:32:35 PM"
+	}
+}

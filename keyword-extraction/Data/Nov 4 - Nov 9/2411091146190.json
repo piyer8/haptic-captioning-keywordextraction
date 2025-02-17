@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 129,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is quite soft, which is very calm and peaceful it didn't feel anything unsual"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_emotional",
+				"data" : "Sensation made me feel relaxed and good, its is soft and smooth"
+			},{
+				"signal_index" : 129,
+				"category" : "free_text_association",
+				"data" : "This sensation felt like I am handling something quite lite and easy, it reminded me of tiny mobile vibration"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt like I am playing some hard beat music which is energetic"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_emotional",
+				"data" : "I felt thrilled through this sensation, I felt excited and thrilled"
+			},{
+				"signal_index" : 130,
+				"category" : "free_text_association",
+				"data" : "This sensation felt like I am listening to rock beat music at high volume, it gave me the similar feel and thrill."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is calm and quite not much vibrant but too soft."
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_emotional",
+				"data" : "This  sensation made me feel calm and relaxing, i felt relieved"
+			},{
+				"signal_index" : 131,
+				"category" : "free_text_association",
+				"data" : "This is a soft vibration, just felt like water running on my hand"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt like a fast paced one, it is fast and energetic"
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like I am not some exciting ride. I felt excited and thrilled."
+			},{
+				"signal_index" : 132,
+				"category" : "free_text_association",
+				"data" : "This sensation is something similar to which I feel doing something exciting and thrilled like when riding bike at high speeds"
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is too soft and very light. "
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel quite confused, it was too light and soft."
+			},{
+				"signal_index" : 133,
+				"category" : "free_text_association",
+				"data" : "This sensation is similar to something which I feel which travelling in a car on highways"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt is soft at start and then fast paced"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel drained. I feel like I regret something"
+			},{
+				"signal_index" : 134,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is cheering and it improved my mood"
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel happy and energitic, This is something I need when I am low."
+			},{
+				"signal_index" : 135,
+				"category" : "free_text_association",
+				"data" : "This sensation felt simillar to vibration to playing drums or hearing to someone drum beats"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt annoying"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_emotional",
+				"data" : "I didn't like this sensation i made me confused"
+			},{
+				"signal_index" : 136,
+				"category" : "free_text_association",
+				"data" : "N.A\n"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is good, and exciting"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_emotional",
+				"data" : "It made feel excited, it seems like something is going to happen next moment"
+			},{
+				"signal_index" : 137,
+				"category" : "free_text_association",
+				"data" : "This sensation felt similar to being in a stadium and watching a match as it comes to end"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_sensory",
+				"data" : "This felt very soft and comfortable"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_emotional",
+				"data" : "This sensation felt very soft and confusing at the same time. I felt confused because it is too soft recognize"
+			},{
+				"signal_index" : 138,
+				"category" : "free_text_association",
+				"data" : "This sensation felt like listening my own heartbeat"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_sensory",
+				"data" : "This sensation made me feel the buzz and it enjoyable"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel like I am listening to some music and It felt like good and joyful"
+			},{
+				"signal_index" : 139,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of being in a music concert or playing some music"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_sensory",
+				"data" : "This sensation felt draining like something flowing out of your hand"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel drained and I felt as if something bad is happening"
+			},{
+				"signal_index" : 140,
+				"category" : "free_text_association",
+				"data" : "This reminded me if time we feel tensed and scared about something to happen"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is panicking and discomfortable"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel exhausted and drained"
+			},{
+				"signal_index" : 141,
+				"category" : "free_text_association",
+				"data" : "This sensation reminded me of travelling over a bumpy road, travelling in a train"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is soft and comfortable"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me feel good, It felt calm"
+			},{
+				"signal_index" : 142,
+				"category" : "free_text_association",
+				"data" : "This sensation relates me to water dropplet falling over a metal utensil"
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_sensory",
+				"data" : "This sensation is very liight and I could only feel little buzz."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me something similar, it didn't feel weird."
+			},{
+				"signal_index" : 143,
+				"category" : "free_text_association",
+				"data" : "This something similar to mobile phone vibration when we get a call but on a very lite note"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_sensory",
+				"data" : "This sensation feels similar, it is stable and neutral"
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_emotional",
+				"data" : "This sensation made me disappointed, I feel bad when I feel it."
+			},{
+				"signal_index" : 144,
+				"category" : "free_text_association",
+				"data" : "N.A"
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/9\/2024 12:13:01 PM"
+	}
+}

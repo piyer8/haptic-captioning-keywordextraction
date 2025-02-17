@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 81,
+				"category" : "free_text_sensory",
+				"data" : "The sesation feels rythemic and has a music flow."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel pleasant."
+			},{
+				"signal_index" : 81,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a musical arrangement. Some simple cords played together."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is fast paced and repeating."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_emotional",
+				"data" : "It creates a feeling of urgency."
+			},{
+				"signal_index" : 82,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds of SOS vibrations of a phone."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a faint irregular heart beat."
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 83,
+				"category" : "free_text_association",
+				"data" : "The Sensation feels like its trying to grab someone's attention with vibrating patterns."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a motor running creating vibrations with regular intervals."
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 84,
+				"category" : "free_text_association",
+				"data" : "It gives the feeling of touching an electric fan."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a rotating fan that is getting stuck in between rotations."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_emotional",
+				"data" : "It gives a feeling of negative feeling\/feedback."
+			},{
+				"signal_index" : 85,
+				"category" : "free_text_association",
+				"data" : "It gives the feeling of failing a task in a game, telling you to retry."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a weak motor vibrating followed by a stronger one."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_emotional",
+				"data" : "It gives the feeling of dissatisfaction, like failing a task when you are just about to finish it."
+			},{
+				"signal_index" : 87,
+				"category" : "free_text_association",
+				"data" : "It reminds me of playing a game where you are trying to perform an action but failing at the last second."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a phone vibrating in a specific pattern. (Following a ringtone of sorts)"
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_emotional",
+				"data" : "It grabs my attenion immediately with the irregular vibrating patterns."
+			},{
+				"signal_index" : 88,
+				"category" : "free_text_association",
+				"data" : "It feels like a vibration pattern following a song\/ringtone on a phone. It also gives a feeling of a juicer\/mixer."
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a smooth vibration pattern followed by a similar pattern but this time its coarse.\t"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_emotional",
+				"data" : "It gives the feeling of comfort yet mildly annoying"
+			},{
+				"signal_index" : 90,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a driving game when the car hits a wall and goes off the course."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_sensory",
+				"data" : "The sensation has a rythmic pattern which has a stronger vibration followed by a small fainter vibration. Giving the feeling of getting a feedback."
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_emotional",
+				"data" : "It gives the feeling of getting a stimulative response. "
+			},{
+				"signal_index" : 91,
+				"category" : "free_text_association",
+				"data" : "It feels like a fast pace drumming pattern."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a faint, jagged and uneven vibration."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_emotional",
+				"data" : "It feels uncomfortable and gives a feeling of anxiety."
+			},{
+				"signal_index" : 92,
+				"category" : "free_text_association",
+				"data" : "It feels like a bee buzzing but in the form of vibrations. It is also a similar feeling of driving a car on a uneven and coarse road."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very steady and fast pace rythmic vibration. Like a fast ticking clock."
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_emotional",
+				"data" : "It gives a active feeling creating a feeling of urgency.\t"
+			},{
+				"signal_index" : 93,
+				"category" : "free_text_association",
+				"data" : "It feels like a fast beating heart. Similar to how it would feel after a intense physical activity."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a pattern on exhaling and inhaling. With shorter vibrations for inhaling and longer vibrations for exhaling."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_emotional",
+				"data" : "It gives a calming and soothing feeling."
+			},{
+				"signal_index" : 94,
+				"category" : "free_text_association",
+				"data" : "It is very similar to a human breathing pattern (Long breathes)"
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like a alarm in vibration form. It is steady and follows a repeating pattern."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_emotional",
+				"data" : "It feels attentive and panicky."
+			},{
+				"signal_index" : 95,
+				"category" : "free_text_association",
+				"data" : "It feels a telephone ringing but in vibration form."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is very faint and hard to describe. It feels like driving on a uneven and coarse road.\t"
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_emotional",
+				"data" : "It feels irritating and slightly uncomfortable."
+			},{
+				"signal_index" : 96,
+				"category" : "free_text_association",
+				"data" : "It feels like driving on a dirt and rocky road."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_sensory",
+				"data" : "It feels like a car engine starting up."
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_emotional",
+				"data" : "NA"
+			},{
+				"signal_index" : 97,
+				"category" : "free_text_association",
+				"data" : "It feels like a gritty machine running creating weird vibrations"
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_sensory",
+				"data" : "It is very similar to the feeling of a cat purring."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_emotional",
+				"data" : "It feels comfortable and relaxing."
+			},{
+				"signal_index" : 98,
+				"category" : "free_text_association",
+				"data" : "The sensation is comparable to a cat's purr, ryhtmic vibrations."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			2,3,4,7,8,11,15,19,20,21,22,23,27,28,29,32
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "10\/18\/2024 3:00:02 PM"
+	}
+}

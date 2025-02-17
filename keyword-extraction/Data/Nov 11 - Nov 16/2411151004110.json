@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as pulsating with a low intensity to someone else. Similar to a notification vibration from a phone"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "N.A\t"
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "The signal reminds me of a notification vibration from my phone. "
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to some else as if they were shaking a spring box. The sensation feels like a spring bouncing around in a small metal box.\t"
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "The sensation evokes a feeling of urgency."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when I close the lid of my dishwasher. The vibrations are somewhat similar "
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to some else as if they were playing a beat from a song. "
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel cheerful. "
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when I hear a loud party from a distance. The sensation feels like someone playing a bass-heavy song from far away"
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to someone else as a continuous vibration."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel happy. "
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when I run a small electric motor. "
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to someone else as a drum beat a drummer would play."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel comfortable. I feel relaxed by this sensation\t"
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of a marching band when playing a drum. I can associate the sensation with a drum beat."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as a zigzag pattern to someone else. "
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel as if there is some urgency that needs to be resolved. I feel anxious about this sensation.\t"
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds of when I have an urgent task that needs to be completed. I can associate working hard with this sensation."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "I would desribe the sensation as a long pulse to someone else"
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel good. I can attach being happy with this emotion."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of being on a vacation. "
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as a notification."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "This sensation makes me feel annoyed"
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of being on a rough road. I can associate being annoyed with this sensation"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as one long vibration followed by a much shorter vibration."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of waking up to alarm that I did not set. "
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to someone else as a low humming sound as if there was construction work being done somewhat near my house."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel comfortable. "
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of a drill. "
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as a strong stable vibration to someone else."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel uncomfortable and anxious"
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "The sensation feels as if someone is shouting at me for a mistake."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as two fairly strong vibrations with a small gap in between to someone else."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of driving over two rough small patches of road back to back. "
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as three weak short pulses."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel happy."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds of when I go hiking and hear insect sounds."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as four to five low frequency periodic pulses to someone else"
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel alert."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds me of when I walk past a growling dog."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation to someone else as a very weak pulse."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "N.A"
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "This sensation reminds of when a small piece of plastic is stuck in my bicycles wheel and I do not stop to remove that piece."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "I would describe the sensation as a strong continous vibration to someone else."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel strong."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of when I shoot a gun in a gameplay. "
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/15\/2024 10:04:25 AM"
+	}
+}

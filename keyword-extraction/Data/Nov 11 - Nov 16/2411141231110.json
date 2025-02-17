@@ -1,0 +1,210 @@
+{
+	"FREE_TEXT" : {
+		"__type" : "System.Collections.Generic.List`1[[FreeTextData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"signal_index" : 145,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is like 4 vibrations and then a pause."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel a little nervous or jittery."
+			},{
+				"signal_index" : 145,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a fast heartbeat and a musical rhythm."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like two long vibrations with two smaller vibrations in the 2nd long vibration."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel bad like I did something wrong."
+			},{
+				"signal_index" : 146,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of doing an incorrect action in a videogame, but that is also a vibration."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like some small dots of vibrations on top of each other."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel a creepy sensation."
+			},{
+				"signal_index" : 147,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of sneaking around and the feeling you would get from that."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a long vibration followed by 4 smaller vibrations."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel focused or intense like I'm doing a high-intensity action."
+			},{
+				"signal_index" : 148,
+				"category" : "free_text_association",
+				"data" : "It reminds me of driving but also pairing a controller."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a constant light vibration with 3 short but bigger vibrations happening."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like I should be prepared for something and I feel the emotion of excitement."
+			},{
+				"signal_index" : 161,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of motorcycles and the feeling when you turn the pedal I think. I don't ride a motorcycle, but it seems like that."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is 2 vibrations followed by 4 rapid vibrations."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_emotional",
+				"data" : "The sensation fills me with the feeling of adrenaline or fighting."
+			},{
+				"signal_index" : 150,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of fighting , and the 4 rapid vibrations feel like 4 distinct hits."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_sensory",
+				"data" : "There's a long and strong vibration followed by 4 light and short vibrations."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel sad and frustrated like I did an action but it didn't work."
+			},{
+				"signal_index" : 151,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time my car wouldn't start. Pushing the engine key would be the long vibration, and the 4 light vibrations would be it not starting."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is two medium vibrations followed by one that's a little longer and a little stronger."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel alert or angry."
+			},{
+				"signal_index" : 152,
+				"category" : "free_text_association",
+				"data" : "It reminds me of an intense feeling or an alarm waking me up or the feeling of not wanting to go to school when an alarm does wake me up."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_sensory",
+				"data" : "There's one long vibration followed by six short vibrations.\t"
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel worried."
+			},{
+				"signal_index" : 153,
+				"category" : "free_text_association",
+				"data" : "It reminds me of the time I was late to class."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_sensory",
+				"data" : "The sensation feels like a long vibration that dies down."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel tired or unfocused."
+			},{
+				"signal_index" : 162,
+				"category" : "free_text_association",
+				"data" : "It reminds me of driving on a dirt\/gravel road."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_sensory",
+				"data" : "It feels like two small vibrations followed by two big and long vibration, but there's a stop in the middle of the second big vibration."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_emotional",
+				"data" : "It reminds me of the feeling of fear or surprise."
+			},{
+				"signal_index" : 155,
+				"category" : "free_text_association",
+				"data" : "The sensation reminds me of the action of being scared. One moment it's fine the second moment there's a big jump."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_sensory",
+				"data" : "It's a low vibration with a big vibration in the middle."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_emotional",
+				"data" : "It fills me with the feeling of surprise."
+			},{
+				"signal_index" : 156,
+				"category" : "free_text_association",
+				"data" : "It reminds me of suddenly braking in a car."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_sensory",
+				"data" : "The sensation is a bunch of rapid vibrations followed by a long vibration followed by a weak long vibration."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_emotional",
+				"data" : "The sensation makes me feel surprised, but more in the sense of feeling like something is weird or unexpected."
+			},{
+				"signal_index" : 157,
+				"category" : "free_text_association",
+				"data" : "It reminds me of a lawnmower or a weak electric razor."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_sensory",
+				"data" : "There's 4 short vibrations followed by a long vibration."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel bored or unfocused."
+			},{
+				"signal_index" : 158,
+				"category" : "free_text_association",
+				"data" : "It reminds me of doing a tedious task or shooting a pistol and then shooting an automatic gun."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_sensory",
+				"data" : "It's 4 short vibrations followed by two short but slower rhythm vibrations."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel like something's ending."
+			},{
+				"signal_index" : 159,
+				"category" : "free_text_association",
+				"data" : "It reminds me of an audience clapping and then it slowing down."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_sensory",
+				"data" : "It's a long vibration followed by two medium length vibrations followed by another long vibration."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_emotional",
+				"data" : "It makes me feel excited like there's something going on."
+			},{
+				"signal_index" : 160,
+				"category" : "free_text_association",
+				"data" : "It reminds me of beyblades like there's an intense battle going on."
+			}
+		]
+	},
+	"PRESET" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144
+		]
+	},
+	"TIMESTAMP" : {
+		"__type" : "string",
+		"value" : "11\/14\/2024 12:31:27 PM"
+	}
+}
