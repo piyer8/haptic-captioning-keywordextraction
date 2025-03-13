@@ -7,5 +7,6 @@
     "summaryAgentInstructions": "You are an assistant that summarizes descriptions of haptic sensations",
     "summaryQuerySensory": "Below are all the answers to the question 'How would you describe this sensation to someone else?' for a haptic signal, create a short paragraph which summarizes all the descriptions",
     "summaryQueryEmotional": "Below are all the answers to the question 'How does the sensation make you feel? Can you associate any emotions with the sensation' for a haptic signal, give me a short paragraph which describes the emotions associated with the sensation",
-    "summaryQueryAssociative": "Below are all the answers to the question 'Does this remind you of anything you have felt before? If so can you associate any actions or object with the sensation?' for a haptic signal, give me a short paragraph which describes the usage examples and metaphors of the haptic feedback"
+    "summaryQueryAssociative": "Below are all the answers to the question 'Does this remind you of anything you have felt before? If so can you associate any actions or object with the sensation?' for a haptic signal, give me a short paragraph which describes the usage examples and metaphors of the haptic feedback",
+    "tagPrompt": "Below are all the descriptions of a haptic sensation. Identify a set of categories that the signal would fit into and return a json object with all the categories and the signal id"
 }
