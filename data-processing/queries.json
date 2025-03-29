@@ -1,4 +1,4 @@
 {
-    "smoothnessRatingPrompt": "From the descriptions of a haptic signal below, return a JSON object containing smoothness rating on a scale of 0 to 10, where 0 is the least smooth and 10 is the most smooth. the object should also contain the 'smoothness_keywords' and 'roughness_keywords' which are the key words/phrases that relate to smoothness and the key words/phrases that relate to roughness. Make sure the return only the object in your response. ",
+    "smoothnessRatingPrompt": "From the descriptions of a haptic signal below, rate its smoothness (Smoothness score) from -1 to 1, where -1 is the maximum roughness and 1 is the maximum smoothness based on the descriptions. Also return the 'smoothness_keywords' and 'roughness_keywords' which are the key words/phrases that relate to smoothness and the key words/phrases that relate to roughness. Make sure the return only the object in your response. ",
     "extractionPrompt": "From the descriptions of a haptic signal below, extract key words and phrases that describe the sensory details, emotions evoked, and the metaphorical associations of the signal."
 }

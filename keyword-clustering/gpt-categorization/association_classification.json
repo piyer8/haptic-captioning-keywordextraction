@@ -1,0 +1,170 @@
+{
+    "categories": {
+      "Sounds": [
+        "high pitch",
+        "rock music",
+        "frogs",
+        "human pulse",
+        "waves crashing",
+        "ticking clock",
+        "frog croaking",
+        "drum band",
+        "drumming pattern",
+        "loud ringing",
+        "buzz sound",
+        "soft droplets of water",
+        "beep",
+        "alarm",
+        "scary movie",
+        "music concert",
+        "gameplay",
+        "news",
+        "drum beats",
+        "heavy rain season",
+        "interruptions",
+        "sound of water",
+        "splashing",
+        "water running",
+        "soft vibration",
+        "sound of breeze",
+        "crying",
+        "muffled",
+        "snoring"
+      ],
+      "Haptics": [
+        "vibrating",
+        "vibrating mobile",
+        "vibration pattern",
+        "haptic feedback",
+        "tapping",
+        "vibrating chair",
+        "constant vibration",
+        "subtle vibrations",
+        "unexpected vibrations",
+        "low frequency vibration",
+        "intense vibrations",
+        "vibration form",
+        "vibrational patterns",
+        "vibrating object",
+        "phone vibrates"
+      ],
+      "Music": [
+        "song intro",
+        "musical sensation",
+        "musical rhythm",
+        "bass-heavy pop songs",
+        "EDM music",
+        "electronic music concert",
+        "indie folk song",
+        "pop music",
+        "dj",
+        "booming music"
+      ],
+      "Vehicles": [
+        "2 stroke bike",
+        "motorcycles",
+        "car",
+        "train running",
+        "running machine",
+        "driving motorcycle",
+        "drive mode",
+        "revving a car engine",
+        "engine starts",
+        "vehicle movement"
+      ],
+      "Personal Experiences": [
+        "first phone",
+        "exam hall",
+        "party club",
+        "emergency sirens",
+        "living experience",
+        "chat", 
+        "leading to conflict",
+        "waiting period",
+        "relaxed heartbeat",
+        "feeling pricked"
+      ],
+      "Notifications": [
+        "in-app notifications",
+        "phone alarm vibrations",
+        "game notifications",
+        "reminder notifications",
+        "message notifications"
+      ],
+      "Physical Sensations": [
+        "nails",
+        "back pain",
+        "bumps",
+        "heart race",
+        "intense stimulation",
+        "pulses",
+        "numbness",
+        "random sensations",
+        "muscle relaxation"
+      ],
+      "Locations and Environments": [
+        "night club",
+        "school",
+        "apartment",
+        "hospital",
+        "supermarkets",
+        "beach",
+        "driving on the freeway",
+        "cobblestone path",
+        "highways",
+        "medicinal flow"
+      ],
+      "Activities": [
+        "playing Fortnite",
+        "playing Call of Duty",
+        "skating",
+        "school practice",
+        "playing chess",
+        "party DJ",
+        "homework"
+      ],
+      "Sensory Experiences": [
+        "touching",
+        "actions",
+        "emotion",
+        "new experience",
+        "pleasurable chat",
+        "relaxation",
+        "exciting phone alarm",
+        "feeling low",
+        "stressful tasks"
+      ],
+      "Mechanical Sounds": [
+        "engine noise",
+        "moving furniture",
+        "drilling machine",
+        "machine breakdown",
+        "electronic mixer",
+        "electric heater",
+        "broken phones"
+      ],
+      "Events": [
+        "concert night",
+        "emergency room",
+        "dance lessons",
+        "important event",
+        "sessions",
+        "exams"
+      ],
+      "Cues to Action": [
+        "start/stop",
+        "waiting",
+        "calling",
+        "sending", 
+        "rev the engine"
+      ],
+      "Miscellaneous": [
+        "daydreaming",
+        "something bad",
+        "verbal commands",
+        "communication devices",
+        "motorbike adventures",
+        "different tasks"
+      ]
+    }
+  }

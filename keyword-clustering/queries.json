@@ -1,0 +1,4 @@
+{
+    "tagPrompt": "Below are all the descriptions of a haptic sensation. Given a set of categories [Alarm, Phones/Devices, Vehicles, Nature, Machinery, Music, Events, Body, Objects], return whether the signal can be attributed to each category and return the key words or phrases that fit for each category and a percentage of descriptions that match each category. If you find any additional categories which don't fit any of the ones I mentioned also add that(but Do NOT add categories like Other, Miscellaneous etc):",
+    "emotionTagPrompt": "Below are all the descriptions of emotions evoked from a haptic sensation. Given a set of emotions [Joy, Trust, Fear, Surprise, Sadness, Disgust, Anger, Anticipation], return whether the signal can be attributed to each emotion and return the key words or phrases that fit for each category and a percentage of descriptions that match each category:"
+}
